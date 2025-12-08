@@ -24,6 +24,7 @@ function updateAuthUI() {
 
   if (isLoggedIn) {
     // Logged In State: Use personalized greeting
+    userNameDisplay.textContent = `Hello, ${userName || "User"}`;
     initUserMode(userName);
   } else {
     initGuestMode();
@@ -79,7 +80,6 @@ let isProjectSet = false;
 let currentProject = null;
 let projectSetupShown = false;
 
-
 const guestGreetings = [
   "Welcome, Stranger 👋",
   "Hello, Mystery Guest 🎭",
@@ -87,7 +87,49 @@ const guestGreetings = [
   "Hey there, Anonymous 🕶️",
   "Welcome, Visitor 👤",
 ];
+// --- TIME-BASED GREETING ARRAYS ---
 
+const morningGreetings = [
+  "Good Morning, early bird 🌤️",
+  "Rise and shine, ready to analyze? ☕",
+  "Morning! Let's get to work 💻",
+];
+
+const afternoonGreetings = [
+  "Good Afternoon, focused analyst! 📝",
+  "Welcome back, ready for the next task?",
+  "Hello! Requirements await your review.",
+];
+
+const eveningGreetings = [
+  "Good Evening, Elicitor is here to help 🌙",
+  "Wrapping up the day? Let's analyze a few more.",
+  "Twilight greetings! Ready for analysis.",
+];
+
+const nightGreetings = [
+  "Hello Night Owl 🦉, ready for late-night analysis.",
+  "Still working? Let's classify those requirements. 💡",
+  "Shhh... it's quiet. Time for deep analysis.",
+]; // --- TIME SELECTOR HELPER ---
+
+function getTimeBasedGreeting() {
+  const hour = new Date().getHours();
+
+  if (hour >= 5 && hour < 12) {
+    // 5 AM to 11:59 AM
+    return morningGreetings;
+  } else if (hour >= 12 && hour < 17) {
+    // 12 PM to 4:59 PM
+    return afternoonGreetings;
+  } else if (hour >= 17 && hour < 22) {
+    // 5 PM to 9:59 PM
+    return eveningGreetings;
+  } else {
+    // 10 PM to 4:59 AM
+    return nightGreetings;
+  }
+}
 const userIcon = `<svg viewBox="0 0 24 24" fill="currentColor" class="user-icon">
   <path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/>
 </svg>`;
@@ -107,16 +149,42 @@ function initGuestMode() {
   sidebarAvatar.style.backgroundColor = "#333";
 }
 
+// --- UPDATED initUserMode FUNCTION ---
+// File: ui/app.js (Locate initUserMode)
+
 function initUserMode(userName) {
   const sidebarAvatar = document.querySelector(".sidebar-avatar");
   const greetingTextDiv = document.getElementById("greetingText");
   const safeUserName = userName || "User";
 
-  // 1. Personalized Greeting
-  const greetingMessage = `<span class="greeting-star"></span> Evening, ${safeUserName}`;
-  greetingTextDiv.innerHTML = greetingMessage;
+  // 1. Determine Time and Select Random Greeting
+  const availableGreetings = getTimeBasedGreeting();
+  const randomGreeting =
+    availableGreetings[Math.floor(Math.random() * availableGreetings.length)];
 
-  // 2. Personalized Sidebar Avatar
+  // ⭐ CHANGE HERE: Ensure the greeting combines the time-based phrase with the full user name. ⭐
+  // E.g., "Good Morning, early bird" becomes "Good Morning, Zaid Ali Khan"
+  const greetingPhrase =
+    randomGreeting.split(" ")[0] + " " + randomGreeting.split(" ")[1]; // Takes "Good Morning"
+
+  // Handle specific, shorter greetings (like "Welcome Night Owl")
+  let finalGreeting = `${greetingPhrase}, ${safeUserName}`;
+
+  if (
+    randomGreeting.includes("Night Owl") ||
+    randomGreeting.includes("Stranger")
+  ) {
+    finalGreeting = `${
+      randomGreeting.split(" ")[0]
+    }, ${safeUserName} ${randomGreeting.split(" ").slice(2).join(" ")}`;
+  } else {
+    finalGreeting = `${greetingPhrase}, ${safeUserName}`;
+  }
+
+  // Set the main greeting text
+  greetingTextDiv.innerHTML = `<span class="greeting-star"></span> ${finalGreeting}`;
+
+  // 2. Personalized Sidebar Avatar (remains the same)
   const userAlias =
     safeUserName.charAt(0).toUpperCase() +
     safeUserName.split(" ").pop().charAt(0).toUpperCase();
@@ -124,6 +192,7 @@ function initUserMode(userName) {
   sidebarAvatar.style.color = "white";
   sidebarAvatar.style.backgroundColor = "var(--color-primary)";
 }
+
 //auto scroll to response code
 function scrollToBottom() {
   window.scrollTo({
