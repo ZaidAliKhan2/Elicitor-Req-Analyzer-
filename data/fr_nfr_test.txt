@@ -1,0 +1,1224 @@
+__label__NFR system shall generate persistent urls for datasets to ensure easy future access
+__label__NFR user shall receive a message when network coverage is low
+__label__FR system shall display videos related to the entered keywords
+__label__FR user shall provide valid details to create an account on the stm website
+__label__FR the system shall allow staff members to record internal notes for collaboration on records
+__label__FR users shall select the recruitment option and choose forms and downloads
+__label__FR the adjuster shall enter the preferred repair facility on the estimate assignment
+__label__FR user shall sign up or sign in using their email id and password
+__label__FR the system shall determine when zoonibot should comment or provide explanations to volunteers
+__label__FR adobe illustrator shall require a 64bit version of the operating system
+__label__FR user shall be able to generate reports on student course information level 1
+__label__FR system shall change the resolution of the video and display it accordingly
+__label__NFR all users shall be able to navigate to the catalogue using the sub navigation icons
+__label__NFR the multimahjongserver will have a graphical user interface with which the administrator of the server can get log information and change game settings
+__label__NFR system shall ensure data integrity and accuracy throughout the dmp lifecycle
+__label__FR the system shall be able to define and manage various type of messages already in the drivers smart card holder like predelivery check stolenlost cards renewals exchanges and duplicates
+__label__FR any disputes cases closed for over 6 months must be purged from the online disputes database
+__label__FR system shall handle abnormal situations by providing error handling and recovery
+__label__FR the system shall allow camp administrators to modify camp group information
+__label__FR the themas system shall be able to accept temperature readings from thermostats only within a predefined valid range
+__label__FR the system shall require university group approval for outgoing transfers
+__label__FR the system shall be able to display the webportal in swedish upon administrator selection
+__label__FR user shall be able to choose video quality by entering the desired quality level such as 320p 480p 720p or 1080p and view the video in that quality
+__label__NFR system shall restore data if a database crash occurs
+__label__FR user shall be able to log out of the system by using the logout button
+__label__NFR the system shall have a userfriendly interface with clear menus buttons and icons
+__label__FR restaurants shall be able to view payments
+__label__NFR system shall facilitate collaboration and data sharing among project stakeholders
+__label__FR the system shall allow the administrator to extract statistics of use standard delay of reply by memberperiod percentage of unsuccessful transaction
+__label__FR system shall allow users to select orders from the order history and view detailed information
+__label__FR user shall be able to delete student records
+__label__FR the multimahjongserver will allow players on multimahjongclient programs to modify their own names and icons during gameplay as opposed to only at the beginning
+__label__NFR system shall maintain backward compatibility and smooth dependency installation for ubuntu 1004 lts
+__label__FR system shall be able to display an element from the search result buildings or pois in the map view following requirements ucar201 ucar202 and ucar203
+__label__FR user shall be able to select their availability employee function
+__label__NFR system provides report generation for delivered goods to facilitate backup and recovery in case of data loss
+__label__FR fabs user shall have validations run in a reasonable amount of time
+__label__NFR system shall be able to maintain data security
+__label__NFR frequentlyexecuted system transactions must be designed so that they can be completed with a small number of interactions eg mouse clicks
+__label__NFR the server shall be capable of supporting an arbitrary number of surface computers tablets and displays that is it shall provide no limit on how many devices are in the system
+__label__FR the system shall be compatible with iis60 and above or apache 20 and above
+__label__NFR user shall utilize certain cryptographic techniques for security
+__label__FR after installing the application from itunes or the app store the user will be asked to login
+__label__NFR system shall validate credit cards against fraud
+__label__FR the system assumes that each user will have only one role assigned at a time
+__label__FR system shall provide a dashboard widget for recent submissions
+__label__NFR the system must perform well in adverse environmental conditions such as extreme temperatures
+__label__FR system shall keep session track of user activity
+__label__FR user shall be able to view the application logo and affiliate logos upon startup
+__label__FR user shall be able to navigate to the next product by swiping left to right
+__label__FR user shall be able to delete properties they have added to the system
+__label__FR user shall be able to see how many seats are left for a summit to ensure timely registration
+__label__NFR the system will be designed in such a way that the algorithms for the four main units will be able to be easily swapped out
+__label__FR system will display a message confirming that the password has been created successfully
+__label__NFR system shall ensure the portability of the application across various operating systems and devices
+__label__FR system shall save user feedback into the database and display a confirmation message
+__label__FR system shall display a message status updated upon successful update
+__label__NFR the system shall provide an intuitive and userfriendly interface
+__label__FR user admin shall be able to provide information about scholarships and eligible students shall be able to apply for scholarships through the system
+__label__FR user shall be able to manage student information
+__label__FR administrator shall be able to change the super password
+__label__FR upon touching the how to play button on the menu screen the how to play screen shall be displayed and users shall be able to see screenshots of tutorial screens by sliding the windows
+__label__FR a data publishing user shall be able to add a dataset in a hidden state
+__label__FR user shall be asked for resubmission of documents if necessary
+__label__NFR the automated diagnostic tool shall detect and identify certain performance and operational faults in chiller and cooling tower subsystems of hvac units following specified algorithms
+__label__FR crafty kids corner shall include a rating system allowing users to rate projects based on their experience
+__label__FR system shall generate event data for changes in heating or cooling unit status
+__label__NFR system shall maintain sessions for better security and performance
+__label__FR users shall be able to log in to the mobile application with credentials stored on the phone for automatic future login
+__label__FR the tcs shall provide the capability to display waypoint data in alphanumeric format
+__label__FR the system shall allow processing of prescriptions received electronically or manually
+__label__FR system shall be able to provide general recommendations based on recent trends through administrative functions
+__label__NFR the site should be usable anywhere with internet connectivity and a compatible device
+__label__NFR system shall ensure accessibility across all major web browsers available on the market without restrictions
+__label__NFR any element of the system will take no longer than 10seconds to restart
+__label__FR the system shall query the database for product information calculate the total payable amount after taxes and create a bill in printable format
+__label__FR lab incharge shall be able to view open lab requests update the status and perform actual sample collection and lab tests offline with reports submitted to patients offline
+__label__FR system shall be able to log the dispensed amount against device information and send a response to the central system
+__label__NFR user shall interact with the estore through icons and toolbars for a userfriendly experience
+__label__FR user shall have a link on the home page to a list of training options for easy access
+__label__FR system shall record embargo and access control metadata
+__label__FR user shall be able to add inventory assets related to all departments if a faculty member or all assets if a university group member with bulk entry options available
+__label__NFR the system shall be highly available and accessible to users most of the time with minimal downtime
+__label__FR the system shall allow curators to require authentication for object access
+__label__NFR user shall be able to accommodate a high number of books and users without any faults
+__label__NFR system shall provide detailed information on summits for user understanding
+__label__FR users shall be able to switch between a map view and a list view for all search options
+__label__FR the system shall allow camp administrators to create registration forms for staff and campers
+__label__NFR the system shall be able to display a menu at all times to facilitate manual order taking should the need arise
+__label__NFR user shall be able to load the game within 1 minute on subsequent visits benefiting from cache optimization
+__label__NFR system shall track citation counts for datasets to demonstrate academic impact
+__label__FR system shall respond to citizen inquiries with minimal turnaround time
+__label__NFR system shall not recover user data if lost assigning default values of system data when necessary for availability
+__label__NFR there must be an emergency phone located outside the cabin for safety purposes
+__label__FR a stable internet connection shall be required for the player
+__label__NFR the cpcc shall have all required disk and file system facilities installed locally such that the system can boot and run in a standalone configuration
+__label__FR restaurant shall be able to accept or cancel orders depending on the order received and availability of items
+__label__FR curators shall manage user groups and permissions
+__label__FR email input shall be optional during signup
+__label__NFR lms product shall handle both expected and unexpected errors to prevent loss of information and minimize downtime
+__label__FR the system shall accept an item identification parameter and a time period or duration as input
+__label__FR user shall select desired data format and export criteria and the system shall export data accordingly
+__label__FR users shall be able to send messages to each other
+__label__FR user shall manage user accounts and permissions
+__label__FR system shall track due dates and send reminders at regular intervals with a static value of 4 days set in the system
+__label__FR user shall hear spoken output in the target language generated from translated text enhancing accessibility and pronunciation assistance
+__label__FR system shall verify the details and navigate to the home page upon correct input
+__label__FR system shall be able to navigate from a poi to a building on the campus
+__label__NFR user shall find the gambler agent applications client side very easy to use and enjoyable with a simple interface allowing newcomers to quickly start playing
+__label__NFR the website must be capable of storing all data formats and should frequently connect to the database or be database sensitive
+__label__NFR software tools and prebuilt applications that do not have source code available shall come with a complete diagnostic package and customer support
+__label__FR system shall enable accounts managers to track payment transactions and update payment information
+__label__NFR the product shall synchronize contacts and appointments in an acceptable time
+__label__FR the system shall allow indicating relationships between collections and objects
+__label__FR the system shall allow trainers to mark coursesevents as other and charge a listing fee
+__label__NFR company shall have an easytouse website for stepbystep uploading or deleting of content
+__label__FR the system shall signal the mail message generator to send emails to customers and agents when needed
+__label__FR user shall log out of the site after completing product purchases
+__label__FR curators shall manage collections and set access permissions
+__label__FR during checkout the customer shall input details such as name mobile number and location
+__label__FR information on remaining job posting time and cv access shall be reportable
+__label__FR user shall have the option to enable twofactor authentication for added security
+__label__NFR worker password reset shall be managed by the manager
+__label__#NAME? 100 of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course
+__label__NFR the software shall interact with mouse movements and clicks to activate data input areas command buttons and menu options
+__label__FR user shall be able to read the blog to stay informed about badcamp happenings
+__label__NFR system shall ensure data privacy and security
+__label__FR the system shall provide an api for integration with other software applications
+__label__FR the user shall be able to decline an exchange offer from another user
+__label__FR system shall read the valid serial number and linked address and initiate the authorization dialog
+__label__FR system shall confirm submission of leave request
+__label__NFR system shall be accessible to users with disabilities
+__label__FR for each class within a sequence for a cohort program administrators and nursing staff members shall be able to specify which quarter that class will be offered
+__label__FR a customer shall be able to drag a tip denomination out of a bankcard payment or a cash payment
+__label__FR the estimator shall not apply recycled parts to the collision estimate if no available parts are returned
+__label__FR the occurrence of missing data shall be indicated in permanent storage by a unique and obvious place holder or indicator eg a null value or sequence of characters that cannot be confused with nonmissing data
+__label__NFR unauthorized attempts to access cases must be logged in the audit trail
+__label__NFR the application will require welldefined test environments to ensure thorough testing of its various functionalities
+__label__FR upon successful login the system shall redirect the user to the home page of theaacom
+__label__FR user shall be able to enter payment information and have their card charged for an individual sponsorship for easy sponsorship payment
+__label__NFR system shall identify areas triggering the restart of the level whether encompassing stage boundaries or spikelike traps
+__label__FR user shall be able to log out by clicking on the logout button
+__label__NFR user shallwill experience a system designed with builtin fault tolerance to minimize the impact of failures
+__label__NFR the system shall have a userfriendly interface for various user roles
+__label__FR the torch will be able to be fired up by touching it and objects will be able to be dropped by leaving them at their initial place
+__label__NFR system shall store data securely in the database ensuring protection of sensitive information
+__label__NFR the system shall help the user avoid making mistakes while scheduling classes and clinicals for the nursing students
+__label__NFR users from every age group shall find the music streaming and downloading web application easy to navigate and use
+__label__FR the system shall allow archivists to search nonpublic finding aids and view collection files
+__label__NFR user shall be able to save a document of similar size within 05 seconds
+__label__FR a red not ok indicator will be active to signify a confirmed diagnostic condition
+__label__FR the be shall replace all invalid data with zero values
+__label__NFR the system shall implement antitheft measures such as bolting it to the floor to prevent unauthorized removal
+__label__FR system shall read the serial number and bank code from a valid cash card and initiate the authorization dialog
+__label__NFR user shall be able to play mahjong with no prior knowledge of the rules
+__label__NFR the system shall be capable of supporting multiple languages for user interface and data presentation
+__label__FR the user shall be able to select scheduling options classes occur on the same day every week weekly rotations daily rotations
+__label__FR user shall select a preferred payment method such as credit card or cash on delivery
+__label__FR the system shall allow the initiator to view the information of any meetings which they initiated
+__label__NFR the system shall provide comprehensive and readily accessible help documentation based on user feedback
+__label__FR system shall log the serial number in a log file
+__label__FR system shall verify the entered credentials in the database
+__label__NFR the system shall not lose any orders or customer payments under any circumstances p2 p3
+__label__FR user shall be able to get detailed directions to the summit venue for easy navigation
+__label__FR customers shall browse categories and products easily
+__label__NFR the system shall be able to clearly mark links that open in new browser windows or popup windows
+__label__FR there shall be a setting to allow new ideas to be added to the top of the list
+__label__NFR these additional nonfunctional requirements aim to further enhance the performance security user experience reliability and availability of the system
+__label__NFR database shall accommodate at least 10000 client records
+__label__NFR user data such as username and email shall be kept confidential for security purposes
+__label__FR patients shall have the ability to update and manage their profile information including personal details medical history and insurance information
+__label__FR the system shall recommend appropriate educational resources for volunteers
+__label__NFR user shallwill be able to request one or more consultation requests linked back to a specialty
+__label__FR user shall be able to check their rosters administrator and employee
+__label__FR the be system shall be able to ensure the secure delivery of all internal messages
+__label__NFR the system shall enforce data privacy and confidentiality measures to protect sensitive information handled within the commandline interface
+__label__FR system shall provide visual feedback in the form of infographics such as numbers and progress bars for profile changes
+__label__NFR system must display multiple entities simultaneously
+__label__FR system shall be able to display the most searched items on the title screen when the encyclopedia app is launched
+__label__NFR system shall ensure high availability with 99999 uptime and regular backups with a cycle of 30 days
+__label__NFR system shall ensure portability between microsoft windows and linux platforms for both intranet and internet versions of the system
+__label__FR user shall be able to view and update the details of an existing patient profile with only the latest details maintained by the system
+__label__FR for interdepartmental requests the system shall require approval from both a da and faculty group member unless submitted by a higherlevel group
+__label__FR the user shall be able to view past exams by tapping a designated menu option on the screen
+__label__FR user shall have access to video editing effects including background blur video speed adjustment fade in and out animated texts and fonts gifs giphy video stickers and a music editor
+__label__NFR the software shall interact with keyboard keystrokes for data entry
+__label__FR the system shall allow users to compare two versions of a score sidebyside differentiated by measure
+__label__FR text box will originally contain a suggestive text question to guide the user to the format of an appropriate question
+__label__FR administration shall improve the disease prediction database monthly based on the learning from the prior month
+__label__NFR the system shall be able to create a test environment for the web order system
+__label__FR system shall generate reports on attendance data based on specified criteria
+__label__FR the user shall be able to browse different categories of content
+__label__NFR system shall provide submission status accepted wrong answer time limit exceeded etc for the users code solutions
+__label__NFR system shall store all databases on redundant computers with automatic switchover for enhanced reliability
+__label__NFR user shall be able to interact with the registration window for entering customer details and registering new customers
+__label__FR the system shall facilitate conversations between the user and the selected doctor for consultation
+__label__NFR system shall allow only one antivirus to be installed on a single device at a time
+__label__FR superuser shall view users stats to monitor website usage
+__label__FR system shall display liked videos section showing all the videos liked by the user
+__label__NFR fabs user shall see correct status labels on the submission dashboard for quick submission history overview for better tracking and monitoring
+__label__FR system shall allow users to update their profile details including name email password mobile number address and date of birth with successful updates confirmed
+__label__NFR the system shall be highly available during working hours with all maintenance and backup activities occurring outside of these times
+__label__FR the user will select the add task option
+__label__FR user shall be able to access support guidelines and contact options through the snapchat support webpage
+__label__FR the main window shall have main menus entitled file and status
+__label__FR the system shall allow repository managers to define access controls for collections
+__label__NFR user shall be able to ensure compliance with established standards
+__label__NFR this software shall be a great means for the ecosystem
+__label__FR jobs will be added to a watchlist for later viewing
+__label__FR user shall have the ability to remove stored locations
+__label__FR the system shall store campers immediate parentguardians information for contact purposes
+__label__FR system shall be able to maintain and display subject details including code name type semester and credits
+__label__FR the system shall require data entry to be completed before a request can be approved
+__label__FR the system shall display a confirmation message regarding the product id and amount update
+__label__FR system shall facilitate the import of administrative data to streamline dmp creation
+__label__NFR system shall provide meaningful error messages when dataset creation or reconfiguration fails due to incompatible properties
+__label__FR admin shall be able to crud items for restaurants
+__label__NFR system shall offer scalability to accommodate varying project sizes and complexities
+__label__NFR system shall be able to create a connection between activities within 01 second
+__label__FR user shall be able to generate reports including stock order and delivery reports
+__label__NFR abnormal operations shall cause system shutdown
+__label__NFR system shall encrypt data at rest and in transit to protect against unauthorized access adhering to industry standards and regulations
+__label__FR the server shall host the swiggy clone app providing system data processing and storage capability
+__label__FR an option to remain anonymous on the cv database while allowing employersagencies to email candidates shall be provided
+__label__FR administrators shall be able to add buildings
+__label__FR users shall be able to remove an assignment from their list of assignments
+__label__#NAME? the disputes application shall integrate with the cardmember posting and billing system to directly request account adjustments
+__label__FR user shall be able to create and edit event records
+__label__FR the system shall include legality checks to ensure userplaced notes adhere to musical rules
+__label__FR system shall generate a bill update the database upon payment confirmation and change the car status to available
+__label__FR system shall allow selecting the fromlocation from the search results obtained based on requirements ucar211 and ucar212 presumably for building and poi searches
+__label__FR user shall experience a great ui and ux for a pleasant navigation experience
+__label__FR user shall be able to log in with a valid login id and password
+__label__NFR the system shall ensure robust data backup and recovery strategies to prevent data loss in case of system failures
+__label__NFR the system shall use symbols and words that are naturally understandable by the user community
+__label__NFR systems backend servers shall not display the customers password only reset it if necessary
+__label__NFR the system shall be highly available with minimal downtime
+__label__FR the system shall be able to display content in the users preferred language upon selection
+__label__NFR agency user shall know the submission periods start and end dates for timely data submission
+__label__FR movement shall be facilitated by touching the respective buttons up down left right for character movement with interruptions if there is no light at the destination or if the movement path is blocked
+__label__FR javascript functions process user actions and update the cart display accordingly
+__label__FR the employee menu allows the user to access staff entry and attendance details
+__label__NFR the system shall have adequate ram to handle complex projects and large files without lag or slowdown
+__label__NFR all messages passed between cmcs system layers shall have both utc and wall clock time stamp information appropriate for the message type
+__label__FR after confirmation the customer shall receive a notification that the order is confirmed and will be delivered shortly
+__label__FR supervisor shall select type of report and specify file location
+__label__FR upon starting up the application the first viewable screen shall contain buttons for play game options
+__label__FR the system shall restrict the field to accept only numeric data entry
+__label__FR the system shall include measures of service quality such as ease of booking hasslefree checkin efficient ticketing staff regular announcements during flight delays ontime performance inflight experience baggage handling and value for money
+__label__NFR the system must support a high data transfer rate for efficient processing
+__label__NFR the number of mistakes noted by the students shall be decreased by 50 in the first year
+__label__NFR the system shall be able to do the authentication process for login and payment through bankcard
+__label__FR if the password meets the criteria system shall prompt password changed
+__label__FR the tcs shall provide override of payload automated as well as preprogrammed inputs
+__label__FR the system shall allow data entry group members to create requests but restrict approval and deletion permissions
+__label__NFR the system shall be able to retrieve and display a recently accessed within the last 2 months case within 58 seconds regardless of storage capacity or the number of cases in the system
+__label__NFR user shall be able to reset all options and user variables to defaults
+__label__#NAME? to resolve disputes the disputes application will rely solely on transaction details retrieved from the statement database
+__label__NFR the system shall offer comprehensive online help and documentation for users of all skill levels
+__label__NFR the campus map shall cover the central train station of eindhoven
+__label__FR system shall notify the seller about the delivery of the product to the consumer
+__label__NFR staff shall unblock atm cards blocked after three failed login attempts
+__label__NFR system shall display forum threads and replies for user engagement
+__label__FR an app shall provide a userrestaurant with all userrestaurant system functionality according to access control
+__label__FR users shall be able to send messages to a team of people
+__label__FR the admin or user can log in to the system with their unique username and password
+__label__NFR users shall customize their privacy settings to optimize their experience
+__label__FR system shall show the first lines of news articles based on the titles on the title screen
+__label__NFR users shall be limited to three attempts to enter their password
+__label__NFR the system shall include backup and disaster recovery mechanisms to safeguard against data loss
+__label__FR system shall automate tasks related to investigation after initial entries are made during registration
+__label__FR the system shall allow inspection supervisor to assign inspections to ensure appropriate inspectors receive the work
+__label__NFR system shall facilitate efficient backup and recovery of neurohub data for system administrators
+__label__FR the operator shall be able to manually override any automatic data terminal control mode selection if desired except during emission control emcon and hazards ofelectromagnetic radiation to ordnance hero conditions
+__label__NFR the system shall use a besteffort multicastbroadcast approach where delivery of packets to all specified agents is not guaranteed
+__label__FR users shall be able to register with practo using valid information and log in using their credentials to access practo services
+__label__FR the user interface shall be responsive adapting to various devices and browsers
+__label__FR system shall not mandate logging out
+__label__NFR the system shall utilise periodic 120second keepalive messages between mobile and the server to monitor app operational status
+__label__FR system shall open a new window with options such as account privacy and language settings
+__label__FR javascript code includes error handling mechanisms to display error messages if payment processing fails
+__label__NFR crafty kids corner shall feature an intuitive user interface design suitable for each age group
+__label__FR a data publishing user shall be able to edit the model of imported data
+__label__NFR user shall experience evenly distributed translation requests across multiple servers through load balancing strategies optimizing resource allocation and scalability
+__label__FR the system shall prefilter content using lowlevel and highlevel asset information metadata tags
+__label__FR the system shall track which campers submitted which forms to ensure compliance
+__label__FR system shall allow searching by date range for items
+__label__NFR system shall use secure sockets for all transactions involving confidential customer information
+__label__FR user shall view all employee details and oversee the entire site operation
+__label__FR system shall send resolved feedback messages to users via email or sms
+__label__FR accounts managers shall track payment transactions and update payment information
+__label__FR system shall display the payment amount and corresponding application number on successful search
+__label__FR user shall be able to view a list of user profiles so that they know who is attending the conference
+__label__FR user shall enter search text on the screen and display matching products based on the search
+__label__FR transaction receipt shall be 31 by 6 inches while statement receipt shall be 42 by 12 inches
+__label__FR a app shall be capable of interfacing with a register to facilitate the accurate processing of a payment
+__label__FR an app shall provide a userrestaurant with all userrestaurant system functionality according to access control
+__label__FR system shall add details of money transfer to the companys event logs and database
+__label__NFR user shall access the intra mailing system concurrently with multiple users
+__label__NFR the system shall use ssl secure socket layer for all transactions involving confidential passenger information and automatically log out customers after a period of inactivity
+__label__NFR user shall expect uninterrupted website functionality even during high network traffic
+__label__FR the user shall be able to filter exams by school yearterm or subject
+__label__FR this unit will receive a text string from the url parameter
+__label__FR system shall process the users input and perform the desired action in the application interface
+__label__FR faculties shall be able to conduct lectures
+__label__NFR system shall facilitate quick access to desired content enabling users to find what they are looking for effortlessly
+__label__NFR the application server shall be responsible for maintaining the website
+__label__NFR the paypal network must be available 24 hours a day
+__label__#NAME? system shall ensure that all business rules specified in the disputes system comply with the guidelines of regulation e and regulation z
+__label__NFR the system shall function reliably with few or no interruptions in its first operational year and fewer still thereafter
+__label__FR the system shall detect images with no classifiable plankton in plankton portal
+__label__FR developer shall determine the best way to load historical fpds data
+__label__FR system shall be able to display search results in descending order as a list of links
+__label__FR user shall be able to search for products by keyword or product id
+__label__NFR system shall provide a userfriendly interface for updating user profiles
+__label__FR user restaurant owner shall be able to apply for verification after registering on the web portal
+__label__FR the system shall allow parents to track their submitted consent forms
+__label__NFR system shall maintain data integrity by preventing data loss through proper database management
+__label__FR the system shall confirm the successful creation of a new user account
+__label__FR users can permanently delete their accounts and access to the system
+__label__FR the system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for program administratorsnursing staff members planning purposes
+__label__FR user shall establish address of communication using four lines each 25 characters long for house namenumber street nameplace and state
+__label__FR system shall be able to complete the authorization process and start the transaction dialog
+__label__NFR system shall offer a fastslow motion editor for users to choose the best video speed
+__label__FR the system shall allow users to importexport data from mssql databases using data packages
+__label__FR the system shall generate reports on storage consumption by financial contact
+__label__FR user will input their card details including card number card type expiration date security code and billing address and then click on the link card option
+__label__FR system shall safely transfer money to the sellers bank account after successful transactions
+__label__NFR deposit transaction time after envelope insertion must not exceed 5 seconds under normal workload and 6 seconds under peak workload
+__label__FR the system should be able to handle parameter changes in three ways single parameter subset of settings and predefined parameter set switching
+__label__FR user shall be able to deposit datasets through virtual research environments and other workflow tools
+__label__NFR user shall have access to the system based on the reliability of the separate components
+__label__FR the system shall predict diseases or illnesses based on the users selected symptoms and display the results
+__label__FR a display shall provide a delivery boy with all delivery boy system functionality
+__label__FR user shall be able to block other users
+__label__FR a app shall be capable of interfacing with a register to facilitate the accurate processing of a payment
+__label__FR the audit report shall include the percentage of available recycled parts used in the estimate
+__label__FR the system shall conditionally display a launcher to the encyclopediaapp on the main menu only when the dutch language is selected
+__label__NFR the system shall utilize a relational database metadatadb for storing structured video metadata like title language size and duration
+__label__NFR system shall provide a secure loginregistration system to prevent unauthorized access
+__label__FR a server shall host the rmos and provide system data processing and storage capability
+__label__FR secure sessions will require users to have been guest members before logging in
+__label__NFR user shall have access to the whatsapp internal server which must be available 247
+__label__NFR system shall ensure that each doctor is mapped to one and only one specialty
+__label__FR user shall have a longlasting battery for allday use of alfred
+__label__FR javascript code includes error handling functionality to ensure a smooth user experience
+__label__FR user shall be able to log out of the system
+__label__FR system shall allow creation modification and deletion of student records including enrollment number name and year of enrollment
+__label__NFR system dependability ensures users are informed of any issues for trusted system performance  measured during testing and prioritized highly
+__label__FR administrators shall be able to modify the list of agenda rss feeds available in english
+__label__FR system shall allow user to track shipments by entering order information
+__label__FR user shall have access to online user documentation and help system
+__label__NFR system must support concurrent access by up to 1000 users simultaneously
+__label__NFR the system shall interface with campusconnects central server
+__label__FR the system shall allow staff members to manage approved proffers to ensure compliance
+__label__FR customers shall log in or skip registration to access the menu dashboard
+__label__NFR the product shall have a conservative and professional appearance
+__label__FR the system shall allow parents to view counselors assigned to their children
+__label__FR user shall be able to reply to incoming messages through the system
+__label__FR the system shall provide a form for certificates
+__label__NFR system must maintain audit trail for at least the life of associated cases and make it accessible on request
+__label__FR the system shall allow consumers to search for data packages by publisher
+__label__NFR ingame option to halt gameplay shall be provided allowing access to fields displayed on the title screen
+__label__FR alternatively the user can push the ctrlc key combination or rightclick the mouse and select the copy item button from the context menu
+__label__FR during billing mode the app shall represent bank card payment for each customer
+__label__NFR the system shall protect user data with robust security measures eg encryption
+__label__FR the system shall create a complete copy of data from the source phone to the target phone
+__label__NFR the system shall interface with the faculty central server
+__label__FR system shall provide necessary control signals to heating or cooling units upon request
+__label__FR the system shall allow staff members to assign applications for detailed review
+__label__FR system shall maintain and display elective subject choices made by students for different semesters
+__label__NFR user shall experience reliable data storage and automatic switchover in case of redundant computer failure
+__label__FR upon logging out the system shall load the main page
+__label__FR the system shall render complex graphics and enable smooth onscreen navigation
+__label__NFR system shall integrate with netbeans ide 721 for java development and mysql query browser for database management
+__label__FR a clinical class shall specify the course name lecture room requirements clinical site needs lecture instructor needs and clinical lab instructor needs
+__label__NFR system shall ensure high data transfer rate
+__label__FR user shall be able to forward received emails to other email addresses
+__label__FR user shall be able to register students through the website and the admin shall be able to register new students
+__label__FR user shall be able to assign location information to a container
+__label__NFR system shall enable users to track submitted defect or enhancement requests
+__label__NFR the system shall operate primarily offline with networked authentication components functioning only when radford universitys systems are available
+__label__NFR user shallwill be able to register themselves by filling out a patient profile generating a unique id
+__label__FR restaurant shall be able to view the orders which have been ordered by customers
+__label__FR if the items are in stock the system shall display the items if not it shall display that the items are out of stock
+__label__FR the system shall allow curators to manage user groups and permissions for collections
+__label__FR the system shall store camper records from previous years for reference
+__label__FR there shall be the ability to form groups or teams
+__label__FR the system shall allow researchers to search ocred text in digitized documents
+__label__FR the system shall provide various formatting options for text images and other content elements on slides
+__label__FR user shall only delete routes that they have added
+__label__FR the system shall integrate with inventory to check stock availability and prevent overselling
+__label__NFR frequentlyexecuted transactions must be completed with minimal interactions
+__label__FR user shall be able to view a very clear map showing the buildings and rooms so that they can make it to class on time
+__label__FR the system shall allow users to integrate reference data with their datasets for geographic mapping
+__label__FR contact information will be optionally hidden
+__label__FR system shall allow users to create drafts of emails that can be saved and edited later before sending
+__label__FR user shall receive notifications about new uploads in their channel after logging in
+__label__FR system shall process the account deletion request and update the database accordingly
+__label__NFR the system shall utilize help bubbles to assist managers customers and administrators
+__label__FR when in billing mode app shall display a representation of a bankcard payment for each customer
+__label__FR students added to a cohort shall be eligible for the cohorts program of study
+__label__FR the system shall allow importing stories from a spreadsheet
+__label__NFR only valid data shall be entered into the system no invalid data shall be entered into the system
+__label__FR user shall be able to view transaction activity by entering start date and end date
+__label__FR system shall facilitate access to persistent identifiers for datasets referenced in the dmp
+__label__NFR system shall provide highquality images and clear quality video calling for an optimal user experience
+__label__FR admin shall be able to add or remove recycling facility information to ensure users have access to the most recent information
+__label__FR user shall move multiple files using the neurohub file browser
+__label__FR user will be notified if the barcode output is not generated due to an issue prompting them to retry or seek assistance if needed
+__label__NFR the system shall be able to handle 1000 customers logged in concurrently at the same time
+__label__NFR system shall facilitate bulk updates of enum values with efficient backend changes
+__label__FR the system shall allow trainers to update or delete their coursesevents
+__label__FR the system shall be able to delete restaurant information upon administrator confirmation
+__label__FR users can view full property details
+__label__NFR the database backup shall be continuously maintained and updated for reliability
+__label__NFR recaptcha shall be implemented to enhance security during authentication
+__label__NFR users shall authenticate using a username and password
+__label__NFR the average time for the server to respond will be less than or equal to 2 seconds
+__label__NFR system shall be able to handle a large number of users concurrently
+__label__NFR system shall respond in less than 2 seconds
+__label__FR the system shall allow a member to do statistics on messages issued and received fromto his system
+__label__NFR user shall be automatically logged out after a period of inactivity for security purposes
+__label__FR user shall be able to deposit files without extensive format conversion or version searching
+__label__FR users shall be able to log in using a username and password which must match the authentication criteria if the login is successful users can access the provided functionalities of the system
+__label__NFR system shall prompt customers with clear error messages
+__label__NFR the system should reliably deliver accurate search results in over 98 of cases aiming for 99 or even perfect accuracy during operation
+__label__FR user shall have control over the database and manage all records of customers and employee details
+__label__NFR a display shall not require a user to log in
+__label__FR system shall be able to redirect the user to the home screen if they decline to grant location services permission
+__label__FR users shall set a secure password complying with password constraints
+__label__FR system shall be able to process transaction requests on a device and send a message indicating the success or failure of the transaction
+__label__NFR system shall facilitate easy customization of the web interface graphicscolors
+__label__FR user shall seamlessly translate text input from one language to another in realtime preserving meaning and conveying nuance effectively
+__label__NFR system shall offer easy access to the blog for user consumption
+__label__FR the client will specify the header contenttype applicationjson in their requests as convention
+__label__NFR the system shall respond to user actions within a reasonable timeframe
+__label__FR system shall integrate with designated external services if feasible
+__label__FR system shall keep history of course bookings
+__label__FR the user shall be able to add their teacher name for the class
+__label__NFR user authentication shall be done via username and password with permissions assigned according to user roles
+__label__FR the system shall allow users to create accounts and log in to the server
+__label__FR the user shall be able to browse the catalogue or use the search function upon successful login
+__label__FR the system shall provide a notification feature for users to check their notifications
+__label__FR user shall be able to record sales transactions including customer information medicine name quantity sold and unit price
+__label__NFR the system shall be highly available and minimize downtime
+__label__NFR system shall support concurrent users
+__label__FR delivery boys shall receive customer details from restaurants
+__label__FR system shall redirect to a page with respective selected type
+__label__FR system shall check whether the account exists or not
+__label__FR the system shall allow customer login using a valid user id and password
+__label__FR customer shall able to track the delivery boy details
+__label__NFR system shall support the creation and editing of rights management statements with appropriate permissions
+__label__FR user shall be able to initiate the investigation process for registered complaints
+__label__NFR system shall provide a seamless and reliable installation process for alfred
+__label__FR user must accept the cancellation terms with a checkbox to be accountable
+__label__NFR 100 of saved user preferences shall be restored when system comes back online
+__label__FR the be shall be able to perform fourier transform the lag set time series
+__label__FR the subsystem window shall be modal to the building window the condition window modal to the subsystem window and the diagnostic history and diagnostic information windows shall be modal to the condition window
+__label__FR system shall facilitate the import of ead data into the application
+__label__NFR the system shall minimize user errors and make error recovery effortless
+__label__FR an ok indicator appearing green shall signify the absence of any diagnostic conditions
+__label__FR user shall view and edit personal details payment information and service details
+__label__NFR the product shall implement caching mechanisms to optimize load times and reduce server requests
+__label__FR the system shall check if the product id exists in the inventory database and update the quantity if it does otherwise it shall add new product information to the database
+__label__FR system shall log the serial number of a valid cash card
+__label__FR the system will use the stored email addresses as a primary means of communicating information to affected parties
+__label__FR administrator shall manage user accounts
+__label__FR the system shall be able to generate reports
+__label__FR the system shall support a wide range of commands and command options for users to perform various tasks such as data manipulation configuration management and troubleshooting etc
+__label__NFR the cmcs shall autonomously monitor and respond to hardware issues software crashes resource limitations errors and communication failures
+__label__NFR maintenance and updates of the site will be carried out by developers and a team of software engineers
+__label__FR the user shall be able to add the classroom number for the class
+__label__NFR the system shall be able to serve 20000 queriesday with a significant portion during the 4 peak traffic hours
+__label__NFR the system shall prompt customer with friend easy to read error messages
+__label__FR the stop diagnostics menu item in the status menu shall be enabled only when diagnostics are running and disabled otherwise
+__label__NFR the product shall achieve a 98 uptime the product shall not fail more than 2 of the available online time
+__label__FR the system shall allow parents to create an account for online camper registration
+__label__FR user shall be able to remove properties from their list of shortlisted properties
+__label__FR the system shall provide functionalities for adding updating and deleting user information
+__label__FR administrator shall be able to save contact details such as number address and pin code and display a contact us button
+__label__FR managers shall be able to add new tasks
+__label__FR user shall be able to drag the chosen object and rotate the chosen mirror in the ingame screen
+__label__NFR system interfaces must allow customization including menu contents screen layout function keys colors and fonts
+__label__FR developer shall prevent duplicate transactions from being published and address the time gap between validation and publishing decision
+__label__FR only admin shall know the percentage of bidders bidding on a particular team and the system shall display the bidding percentages
+__label__FR all sessions shall be able to have multiple moderators
+__label__NFR maintainers are responsible for connecting new users to the paypal payment system network and maintaining records of all users and transaction status for maintainability purposes
+__label__NFR the system shall be accessible to users both from within the application and through a web browser interface
+__label__FR customer shall be able to cancel the order
+__label__FR customers shall be able to order items using their wallet balance
+__label__FR user shall be able to login to the system as an authorized user using a username and password
+__label__FR the user can manipulate and view department details including department and description
+__label__NFR a surface computer shall not require a user to log in
+__label__FR the system shall accept the product identification parameter and new price for the product as input
+__label__NFR the tcs shall be capable of being interoperable with the installed payloads across the 5 levels of uav interaction
+__label__FR user shall input their email for password reset
+__label__FR user shall be able to provide delivery details such as company contacts route delivery date and quantity for admin to process and deliver the materials
+__label__FR system shall validate the new password according to specified criteria
+__label__FR the memories shall provide cloudbased storage for a limited number of useruploaded snaps
+__label__FR user shall be able to add restaurant information upon submitting the form provided all mandatory fields are completed
+__label__FR the diagnostic history window shall provide user selections for start times and end times for the history interval
+__label__FR an api user shall be able to retrieve bordering regionscities
+__label__NFR updates to the teams app shall be delivered through mechanisms that minimize or eliminate impact on ongoing meetings
+__label__FR system shall direct the user to respective account pages for login and terms acceptance
+__label__FR the gui will have a chat window displaying questions sent to the system and responses from the api
+__label__NFR the user interface should be gui based
+__label__NFR user shall easily navigate the system with a simple web page design ensuring accessibility for all users
+__label__FR user shall be able to deposit arbitrarily large files without limitations
+__label__NFR cash withdrawal transaction time must not exceed 4 seconds under normal workload and 5 seconds under peak workload
+__label__FR alternatively the user can push the ctrlv key combination or rightclick the mouse and select the paste item button from the context menu
+__label__FR user shall be able to register with id password pin email and ticket number level 1
+__label__NFR science analysis software shall be integrated into the nasa approved data repository
+__label__FR system shall allow users to filter content based on various criteria
+__label__FR system shall validate user data verify credentials and assign the account to the new user with all new user information upon successful validation
+__label__NFR the server shall be capable of supporting no fewer than 200 concurrent connections from any combination of computers tablets and displays
+__label__FR system shall redo the transaction if the withdrawal amount exceeds allowed limits
+__label__NFR the product shall have a consistent color scheme and fonts
+__label__NFR system shall implement standard web security measures
+__label__NFR the system shall be performant and respond promptly to user actions
+__label__FR user shall be able to register for the application using a valid phone number with a prompt upon installing the app
+__label__NFR all content on crafty kids corner shall be ageappropriate and suitable for children
+__label__FR the system shall allow the user to modify the location preference set of an already submitted meeting response
+__label__NFR system shall maintain security and performance quality attributes for optimal software quality
+__label__FR admin shall be able to facilitate contact between delivery boys and restaurants to replace or cancel orders if items are unavailable
+__label__NFR system shall handle up to 20000 transactions per minute during peak workload conditions
+__label__NFR system shall support emerging needs based on data analysis
+__label__FR users shall be required to log into the system for all operations except the operations on the login page
+__label__FR the tcs shall be capable of automatically selecting the proper mode of operation for the selected data terminal
+__label__NFR system shall provide a userfriendly landing page for browsing training offerings
+__label__FR system shall display the most frequently searched items by the user in the profile
+__label__FR user shall be able to learn about sponsorship levels to determine appropriate sponsorship
+__label__NFR system shall handle errors effectively
+__label__NFR systems backend servers shall not display a customers password and shall only be accessible to authenticated administrators
+__label__NFR system shall be able to provide general recommendations based on recent trends
+__label__NFR upon hardware failure or database corruption administrator shall retrieve and save backups followed by service restart for 247 availability
+__label__FR a customer shall be able to remove an item from a pending order by dragging the item off the order
+__label__NFR system shall be able to run test credit card transactions
+__label__NFR the system shall utilize a highperformance cpu to improve the speed and responsiveness of drawing tools
+__label__FR user shall sign up for a new account to gain access to the site
+__label__NFR system shall provide intuitive and userfriendly interfaces for creating log book page templates
+__label__FR system shall notify the sender if the requested user is unavailable
+__label__FR the user shall be able to log out after booking tickets
+__label__FR user shall be able to comment on videos
+__label__NFR a new stylistic map must be geographically correct
+__label__FR user shallwill be able to apply for loans and view their loan status
+__label__FR all user created nodes shall be filtered for profanity and removed if any exists
+__label__NFR audit trail data must be available for inspection and export for specified cases
+__label__FR the system shall be able to display a printable summary for individual clinical labs which will include but not be limited to class name class number lab section listing of students enrolled instructor days time and location
+__label__FR the system shall utilize a memory buffer with backup disk storage to store all processed spectra
+__label__NFR system shall prioritize userfriendly interfaces for easy navigation and data entry
+__label__FR user shall be able to manage and share live research data to maintain workflow continuity
+__label__NFR only adjusters with a supervisor role can update preferred repair facility ratings
+__label__FR user shall be able to create a new account by providing their email address and password which must meet specific criteria
+__label__FR clinical site information shall include but not be limited to the name of the site contact person and contact information
+__label__FR program administratorsnursing staff members shall have the ability to modify information relating to a clinical site including the clinical site name site contact person contact information and address
+__label__FR user shall always keep control over the activities of alfred
+__label__FR system shall provide electronic course study materials to students
+__label__FR administrator shall be able to handle complaints regarding content by providing solutions or forwarding the issue to the related department and communicating the solution to the user
+__label__FR the system shall allow users to add sharps and flats to music using the mouse
+__label__NFR the system shall be easy to upgrade
+__label__FR the system shall allow public users to search for information on properties county services processes and general information
+__label__FR user shall provide a valid email for google games to execute the application on their device
+__label__NFR the average time for the server to respond over the question testing set will be less than or equal to 2 seconds
+__label__FR user shall be able to recover forgotten password by providing email or mobile number entering verification code and creating a new password successfully
+__label__NFR the system shall allow users to report snapchatters for irrelevant inappropriate content misbehavior or anything uncomfortable and shall take strict action against reported individuals posts or spam
+__label__FR the system shall allow the user to view pending meetings
+__label__FR system shall require user to sign in before adding transportation routes
+__label__NFR the product shall implement access control to distinguish between authorized and unauthorized users in all access attempts
+__label__FR user shall enter a valid username to continue using the application
+__label__FR delivery boy shall be able to receive customer details from the restaurant
+__label__FR user shall be able to manage the user portfolio providing access to new users and deleting inactive employees
+__label__FR user shall be able to send composed emails by clicking on the send button
+__label__FR user shall install neurohub dependencies into an ubuntu 1004 lts machine using ubuntu package management tools
+__label__NFR system shall maintain consistency in performance ensuring reliable and predictable operation
+__label__NFR the overall accuracy will be calculated by dividing the total number of correct answers by the number of questions asked
+__label__FR system shall stop protecting the device from threats if the software validity exceeds the limit
+__label__FR customers shall add products to the shopping cart
+__label__FR the supermarket staff shall add new items to the inventory
+__label__NFR the system shall have a fast scanning and conversion speed to minimize user wait time
+__label__NFR the system shall be able to do encryption and decryption of data for password which is given by user for login
+__label__FR resumes or cvs submitted by job seekers shall be viewable and downloadable
+__label__FR user shall enable navigation between the search results
+__label__NFR the system shall be easy to migrate or backed up via another usb drive
+__label__FR the system shall display the product information with the updated price
+__label__FR an api user shall be able to normalize measures by population
+__label__FR user shall be able to create accounts to store profiles contact info purchase history and confirm orders
+__label__FR user shall have access to clear instructions and postsales service for using alfred
+__label__FR the system shall provide users with a list of selectable symptoms
+__label__FR the system shall generate analytics and reports for healthcare providers including patient demographics appointment statistics and ehr insights
+__label__FR user shallwill be able to receive automatic alerts for unusual or suspicious account activities
+__label__FR the system shall allow administrators to delete requests but not enter or approve them
+__label__FR user shall be able to associate an instance with a container
+__label__FR system shall only provide security for the computer and devices belonging to the user
+__label__NFR the system shall be able to selfmonitor and automatically take actions to address various issues including hardware failures software crashes performance degradation errors and communication disruptions
+__label__FR the system shall allow browsing video thumbnails and segments
+__label__FR the system shall provide preservation managers with information for monitoring file integrity
+__label__FR the system shall allow users to import data from mssql databases
+__label__FR once a request to turn on or off a heating or cooling unit the themas system shall provide the necessary control signal for the unit
+__label__NFR sensitive data will be encrypted before being sent over insecure connections like the internet
+__label__FR user shall be able to view their watch history
+__label__NFR the system shall have a userfriendly and intuitive interface
+__label__FR system shall be able to display an enlarged version of the main site image when the user clicks on it on the sites page
+__label__FR developer shall quickly access broker application data for investigation
+__label__FR user shall be able to view realtime location maps with friends bitmoji representations accessible by swiping down on the camera screen
+__label__FR a mysql database will be used to store all information required to answer questions
+__label__NFR queries exceeding 1 minute should be terminated
+__label__FR the tcs shall provide the functionality to control the power transmitter signal strength and frequencies used by adt for data link communication
+__label__#NAME? to ensure audit trails the disputes system shall generate reports detailing new user additions and access level changes
+__label__FR a team member shall meet with discloudgov to determine requirements for the betansfgov ato
+__label__NFR user accessibility shall be censured in all ways
+__label__NFR all systems and application source code shall be available to or on the systems that execute it
+__label__FR system shall automatically track workclass hours based on users signin and signout timestamps
+__label__FR the system shall have sufficient hardware resources to support all functionalities of adobe illustrator without limitations due to insufficient hardware
+__label__NFR the user shall be able to do payment with secured bank payment mode which is given by user for login
+__label__FR system shall be able to navigate between buildings on the campus
+__label__FR system shall define user roles and access permissions
+__label__NFR user shall have access to a secure and reliable videophoto editor app vivavideo for creating personalized videos and photos
+__label__NFR system shall be designed for easy extensibility maintainability and potential release as an opensource application
+__label__FR the admin can create read update and delete realtors
+__label__FR users shall be able to add a class to a list of classes in which they are enrolled
+__label__FR user shall be able to add the location of the property by clicking on the map to add a marker
+__label__FR the system shall display dates and times in the users local timezone
+__label__FR user shall be able to perform transactions with freecharge
+__label__NFR system shall tolerate faults and inform the user if the connection to the internet gps device or other inputs are disrupted
+__label__FR the lms shall allow searching for items by author title or keywords
+__label__NFR the system will do periodic backups through a live internet connection
+__label__NFR the initial load time of the product shall vary based on the internet connection strength and the media used for access
+__label__NFR load balancing techniques shall be employed to distribute incoming traffic evenly across multiple servers and prevent server overload
+__label__FR user shall be able to search for cargo by entering the name and receive replies from admin for corresponding requests
+__label__FR user vehicle owners pedestrians shall provide valid information to traffic police through the admin
+__label__NFR the system will achieve a future uptime of 999 meaning it will be available for 999 out of every 1000 access attempts
+__label__FR system shall display an error message if the device is not connected to a network and terminate the application
+__label__FR the system shall allow archivists to automatically create access copies and technical metadata for files
+__label__FR admin shall be able to add new routes or edit existing bus journey routes
+__label__FR registered patients shall be able to log in to the portal using their credentials
+__label__FR customer shall be able to order foods and add to cart
+__label__NFR a new user will make less than 3 mistakes in 5 minutes after 5 minutes of use
+__label__FR the system shall allow users to generate basic data summaries for data packages
+__label__FR the system shall maintain consistent card order across estimation draws
+__label__FR user shall be able to remove items from their listings by tapping remove item
+__label__FR the system shall allow users to change the language without any preconditions
+__label__FR system supports offline surveys for uninterrupted data collection
+__label__FR user shall add a new blog by filling out a form with title description and content with validation ensuring data integrity
+__label__FR the system shall allow selecting an item for estimation or reestimation
+__label__FR the system shall allow users to delete scores they own
+__label__NFR the system shall be able to support concurrent multiplayer mahjong games for up to 10 tables with a maximum of 40 players
+__label__FR customer shall view grocery items by entering keywords in the search option
+__label__NFR the system shall be designed for intuitive use by firsttime users
+__label__FR doctors shall be able to log in to check patient information answer patient queries perform daily activities set reminders and communicate with their staff
+__label__FR a staff member shall view a page of information by selecting from the options presented on the welcome screen selection shall be performed using a simple keypad
+__label__FR system shall provide a confirmation to the user upon the creation of a ticket retrieval request including the dispute case number type of retrieval requested and due date for the merchant response
+__label__FR user shall monitor examination progress and view candidate responses
+__label__FR users shall be able to book a movie through the service
+__label__FR user shall be able to send status reports to the finance and legal contract department through the life insurance system interface
+__label__FR a display shall provide a delivery boy with all delivery boy system functionality
+__label__NFR the system user interface shall be userfriendly and easy to navigate
+__label__FR program administrators and nursing staff members shall be able to add a single student to a cohort
+__label__NFR only maintainers shall be granted access to internal servers for maintenance purposes
+__label__NFR the system shall be able to allow continued gameplay upon encountering a nonfatal error
+__label__FR user shall be able to validate user credentials
+__label__NFR user shall enjoy a versatile editing experience with various editing features including video collages themes music bank and sound effects
+__label__FR the system shall display the created board on the dashboard
+__label__FR a supervisor shall be able to abortpurge a tables accountmeals from the active system with no expectation of payment
+__label__FR the system shall display data from the sync matrix 10 and exercise management tool 10 applications
+__label__FR system shall be able to process accountrelated issues and send a message account issues to the central system
+__label__NFR the system shall minimize splash screens and only display them if they provide valuable information to the user
+__label__NFR user interface should be attractive and easily understandable requiring no assistance to use the website
+__label__FR a platform administrator shall be able to hide public datasets
+__label__FR system conducts health surveys to identify disease outbreaks storing data offline if connectivity fails
+__label__FR user shall have the ability to change their password
+__label__NFR system shall offer quick access to training options from the home page
+__label__FR patients shall have the ability to bookmark and save their favorite resources for future reference
+__label__FR user shallwill be able to request check book allotment
+__label__FR the system shall support the english language
+__label__FR the reservation system shall allow users to reserve books even if they are currently borrowed by other members
+__label__FR user shall be able to access project proposal references from the dmp
+__label__FR restaurants shall be able to crud items from the menu
+__label__NFR system shall restrict users to access only their own accounts after login
+__label__NFR system interface must be compatible with specialist software and suitable for users with special needs
+__label__FR the system shall allow parents to track their childs activities and schedule at camp
+__label__FR user shall have access to various messaging features including emojis emoticons internet messaging text messages and voice messages
+__label__FR the system shall allow entering a custom agreedupon estimate
+__label__NFR system shall offer quick calling features with minimal response time
+__label__FR the system shall allow the user to view past attended meetings
+__label__NFR the system shall respond to user interactions with minimal latency
+__label__FR the system shall display the local and exercise time in separate clocks
+__label__FR the system shall allow users to chat with other users who are collaborating on a score
+__label__FR system shall set the book status to available if the book is not currently borrowed allowing members to reserve it
+__label__FR the system shall allow camp administrators to schedule activities for campers
+__label__FR users shall remain authenticated until they choose to log out
+__label__FR user shall be able to authenticate locally
+__label__NFR systems backend servers shall only be accessible to authenticated management
+__label__FR user shall be able to track orders by providing tracking id or order id and view the recent position of a product
+__label__NFR the system shall be multilingual supporting english turkish finnish and italian for international deployment
+__label__FR banner management application for serving and tracking banner ads shall be provided
+__label__FR user shall be able to process transaction requests
+__label__FR user shall access various car rent statistics stored in the car database
+__label__FR user shall be able to purchase credits using credit card or paypal account
+__label__FR user shall be able to view the operating hours of each recycling facility
+__label__FR user shall be able to see the tue facebook page on the title screen when starting the facebook app
+__label__NFR system shall enable easy listing of summit agendas
+__label__FR system shall allow users to search for blogs based on a query string displaying matching results
+__label__FR the user shall be able to notify the recipient that their item has been shipped
+__label__FR the system shall identify interesting volunteer comments on subjects
+__label__FR user shall be able to configure application settings according to state requirements
+__label__FR user shall be able to receive an error message if the server is busy or under maintenance
+__label__FR subapps and their launchers in the main app shall be deleted by a qualified programmer
+__label__FR the user shall be able to edit the details of the exam by tapping on edit schedule
+__label__NFR continuous performance monitoring shall be in place to detect and address performance bottlenecks
+__label__NFR system shall be able to respond to critical processes within defined time limits including patient registration consultation requests and prescription lookup
+__label__NFR the system shall display information clearly and accurately
+__label__FR the system shall display a launcher to the facebookapp version 319 on the main menu
+__label__NFR compatibility with previous windows versions will require further testing
+__label__FR program administrators and nursing staff members shall be able to add new classes to a sequence of classes
+__label__NFR system shall implement authentication checks to prevent unauthorized access to functionalities
+__label__FR when creating a new session the session creator shall assign the session a name
+__label__NFR the system shall maintain low latency for a responsive user experience
+__label__FR user shall access fallback mechanisms in situations where offline resources are unavailable assisting in understanding foreign language content
+__label__NFR the server shall be capable of supporting an arbitrary number of active orders that is no orders shall be lost under any circumstances
+__label__FR healthcare providers shall have the ability to accept reschedule or cancel appointments
+__label__FR user shall be able to delete an activity by selecting it on the canvas and clicking the delete button on the user gui
+__label__NFR the system shall encrypt messages but cannot guarantee confidentiality due to potential decryption by unauthorized parties
+__label__FR curators shall perform author and item authority control
+__label__FR system shall confirm reboot or shut down and allow user to take backups if needed
+__label__FR customers can register log in and log out of their accounts
+__label__FR the be system shall be able to monitor and acknowledge receipt of all data received from the monitor and control system mc
+__label__NFR wireless communication throughout the system will be encrypted using sslv3 at the application layer and wpa2psk at the data link layer
+__label__FR the manager shall view sales statistics in various formats such as pie charts bar graphs and tabular formats
+__label__FR user shall be able to like a certain topic
+__label__FR user shall be able to share files screen share conduct group screen sharing and send contacts
+__label__NFR system shall allow users to reset their passwords through a userfriendly and secure method it should include verifying identity through security questions or sending verification codes to the registered email or phone number
+__label__FR system shall output alarm data and record alarm events for system monitoring
+__label__FR the user shall have the option to sign up using their google account
+__label__FR the system shall allow initiating a twominute countdown timer visible to all participants
+__label__NFR the hardware requirements include a computer with at least 256 mb ram and internet connection
+__label__FR the disputes system shall record user names and dates for all caserelated activities maintaining detailed audit history
+__label__NFR system shall provide a secure environment for user interaction with the commandline interface
+__label__FR customers shall cancel the billing process by card using the bill mode
+__label__NFR the atm shall provide customers with 24hour service for consistent availability
+__label__NFR the system shall enforce a time limit on queries to prevent them from exceeding one minute in execution time
+__label__FR system shall provide functionality for users to assign location information to containers
+__label__FR system shall output invalid temperature status if temperature data is outside valid range
+__label__NFR the system shall implement strong authentication and authorization mechanisms
+__label__FR if the user forgets their account information they shall be able to retrieve it via the forgot your password panel
+__label__FR user shall be able to apply cashback by entering promo code and successfully transferring the amount
+__label__FR the multimahjongclient must send this game initialisation information to the multimahjongserver so that the multimahjongserver can create a new game
+__label__NFR access to sensitive user data such as credit card information shall be restricted to authorized personnel only with proper access controls in place
+__label__NFR web interface shall use clear and consistent terminology for ease of use by users with basic internet and office experience
+__label__FR the system shall support the use of key signatures in scores
+__label__FR system shall facilitate communication between shop owners and the administrator for discussing product quality and advertisements
+__label__FR students shall be able to attend lectures at the scheduled time or view them later on request
+__label__FR if the user enters correct username and password they shall be redirected to the relevant page of the system
+__label__FR the system shall show all estimates simultaneously after everyone submits
+__label__NFR user shallwill experience optimal performance under increased loads through scalability tests
+__label__FR user can create profiles with health worker information attaching usernames for identification and supporting multiple users on a single device
+__label__NFR users access to administrative functions shall be restricted to authorized personnel through rolebased access control rbac
+__label__FR system shall provide tracking mechanisms for downloads and citations of datasets to demonstrate impact
+__label__FR the system shall check the eligibility criteria in the database during account creation
+__label__NFR encryption shall be employed by the system for all privacysensitive data stored on the server
+__label__FR the user shall be able to approve an exchange offer from another user
+__label__FR the multimahjongclient will inform the user whose turn it is to pick up a tile
+__label__FR science analysis software developed by swri to analyze idfsformatted data shall be made available to the aspera3 cois
+__label__NFR user shall enjoy maximal security measures implemented in the application to prevent unauthorized access
+__label__FR the user shall be able to add a new academic year
+__label__NFR the system shall be able to display a dialogue box explaining the nature of the error for nonfatal errors
+__label__NFR the teams app shall be designed to scale based on the size of the organization
+__label__NFR system shall integrate with primo for unified search functionality across books articles and datasets
+__label__FR the system shall allow users to convert a score to a playable format
+__label__FR a tablet shall allow a waiter to process a payment using a bankcard
+__label__FR managers shall have the ability to reset passwords
+__label__FR a data consuming user shall be able to share view state images on social media
+__label__FR system shall open a new window for users to compose and view messages retrieving previous messages from the database
+__label__NFR system shall have a logical interface for ease of use and common tasks
+__label__NFR the program shall support taking roll for class sizes of up to 100 students while maintaining performance requirements
+__label__NFR the system shall store estimation results anonymously for research purposes researcher
+__label__NFR the applications memory usage on the mobile operating system should ideally be below 10 mb with a strict limit of 20 mb during operation
+__label__FR the system shall be able to translate user requests to turn onoff heating or cooling units into corresponding control commands
+__label__FR user shall be able to initialize parameters t k m n and set the parameters during the initialization process
+__label__FR a customer shall be able to add a wildcard special dietary requirement to an order in the case that their requirement is not represented by the system
+__label__FR the application shall track the running activity of the user and convert it into calories burnt
+__label__NFR system shall include records for externally held data to maintain a complete record of the universitys data holdings
+__label__FR the updated product list shall be shown to the customer
+__label__NFR system shall offer an intuitive admin view for tracking registration status
+__label__NFR users must be prompted to change their pin on first use for security
+__label__NFR system shall handle up to 500 simultaneous users without performance degradation
+__label__FR the system shall allow staff members to update transactional parcel pins to reference the gis layer for split or merged parcels
+__label__NFR in case of hardware failure or database corruption users shall be redirected to a replacement page
+__label__FR the system shall allow applicants to complete building development projects and receive posted bonds or occupancy permits
+__label__FR this system will convert an input question about a specific entity and property eg building closing time into a generic answer sentence eg building closes at specific time
+__label__FR system will allow the user to link their card
+__label__FR user shall be able to add a new chemist or lab with only one lab allowed per pincode
+__label__FR user shall be able to log the serial number
+__label__FR the system shall maintain a history of course bookings
+__label__FR user shall be limited to 1000 calls per day with total calls being the sum of all user accounts
+__label__FR the system shall allow authorized users to add new car information
+__label__FR superuser shall reply to user questions to provide assistance
+__label__FR system shall provide supervisor interface to change thermostat settings
+__label__FR the user shall select the edit task option
+__label__NFR the system shall provide a userfriendly interface for creating editing and managing data packages
+__label__NFR only authorized users shall have access to the portion of the system that interfaces with campusconnect
+__label__NFR security camera shall be installed near the atm
+__label__FR the system microsoft excel shall allow users to enter various data types including numbers text dates and formulas
+__label__NFR system shall scale to accommodate growth
+__label__FR text box will originally contain a suggestive text question to guide the user to the format of an appropriate question
+__label__NFR system shall employ ondemand asynchronous loading for faster page execution
+__label__FR system shall keep record of feedbacks received from clients
+__label__FR system shall enforce access control based on assigned user roles and permissions
+__label__FR a user researcher shall recruit for the last round of user research
+__label__FR system shall generate order reports containing information about ordered products and customers details for undelivered orders
+__label__FR healthcare providers shall have the ability to create and send electronic prescriptions to pharmacies
+__label__FR system shall be able to display relevant error messages and take corrective action
+__label__FR the automated diagnostic tool shall input sensed data in real time from data acquisition devices and the hvac unit under diagnosis as well as from data files containing previously acquired data though not simultaneously
+__label__NFR user shall integrate error prevention measures such as sanity checks and limiting freetext input for usability
+__label__NFR the system shall use industrystandard commonly available and widely used operating system message passing middleware and programming languages
+__label__NFR the product must work with most database management systems dbms on the market whether the dbms is colocated with the product on the same machine or is located on a different machine on the computer network
+__label__FR delivery boy shall be able to pick up and deliver the order to the customer
+__label__NFR the system shall be designed for easy maintenance to quickly address any errors that occur in the project
+__label__NFR system use shall not pose any harm to human users
+__label__NFR comments shall be included in the codebase to aid new programmers and developers in making modifications
+__label__FR a data consuming user shall be able to download view state images
+__label__NFR system shall tolerate existing datasets if their properties are different but compatible when creating a dataset as part of app deployment
+__label__FR the multimahjongclient must send this join information to the multimahjongserver
+__label__NFR the system shall ensure a high level of availability with minimal downtime for maintenance or upgrades
+__label__NFR system shall store archived data directly on the hcp object store to leverage its features
+__label__FR admins shall manage restaurant details ratings and reviews
+__label__NFR aside from server failure the software product shall achieve 9999 up time
+__label__NFR the system shall be able to process test shipping orders
+__label__FR the system shall allow staff members to manage ordinances to maintain accurate information
+__label__NFR system shall utilize interchangeable plugins
+__label__NFR the multimahjongclient will have sound effects associated with the game actions
+__label__FR system shall require customers to log in with a valid id to access the site
+__label__FR system shall allow frontdesk staff to assign a unique id to each patient and add it to the patients record
+__label__FR the system shall recommend videos based on uploaded pictures or geographical location
+__label__FR the be shall be able to initiate a reboot of any internal network
+__label__FR intermediate files of cleanedup aspera3 and mex oa telemetry shall be generated in the event that cleanedup telemetry is not provided by esoc
+__label__FR system shall register new users by validating input data and updating the database accordingly
+__label__NFR users shall be able to search for jobs
+__label__NFR the system shall be accessible to individuals with disabilities and comply with accessibility standards eg wcag
+__label__FR in case of a network connection error the system shall handle the error and prevent transaction processing
+__label__NFR user shall expect secure transactions with ssl encryption
+__label__FR system shall send order confirmation to the user and seller through email or sms
+__label__FR characters in the ingame screen shall be able to move in up down right and left directions
+__label__NFR the system may be equipped with a pricing plan and billing system
+__label__FR system shall encrypt sensitive data to prevent unauthorized access
+__label__FR the user shall be able to log in to the system by entering their username or email and password
+__label__NFR the system shall be compatible with various operating systems and hardware configurations
+__label__NFR the connection between the web api and the programs will use for security
+__label__FR a tablet shall allow a waiter to reject an order placed by a customer through a surface computer
+__label__FR user shall be able to input shipment details including packaging type dimensions weight and number of pieces for admin to check the export feasibility and provide necessary feedback
+__label__FR user shall be alerted if they attempt to enter a custom workout name that already exists in the system prompting them to choose a different name
+__label__FR user shall be able to register by entering their name email and password with successful registration if no existing user is found with the same email
+__label__FR system shall generate reports on operational history and statistical summaries
+__label__FR user shall have a check option corresponding to every passport
+__label__FR the user shall be able to filter search results by distance price restaurant type and specific dish
+__label__FR the system shall confirm the successful creation of a new pin visible to all users
+__label__NFR system shall provide robust search functionality for retrieving experimental protocols and files
+__label__FR admins shall facilitate communication between delivery boys and restaurants for order replacements or cancellations
+__label__FR the system shall provide a social messaging platform where users can create and manage groups with chat functionalities
+__label__FR system shall generate reports based on selected parameters
+__label__FR user shall be able to connect with other people on quora by sending messages
+__label__FR the system shall allow users to collaborate on presentations by sharing and editing them with others
+__label__NFR all users of the system shall login using some form of unique identification eg username and password
+__label__FR system shall allow users to select other tue related facebook sites from a list upon starting the facebook app
+__label__FR the user shall select to view the preferred repair facility ratings
+__label__FR under normal conditions 95 of transactions shall be processed in less than 5 seconds
+__label__NFR the system shall be scalable to accommodate a growing user base and data volume
+__label__FR user shall be prompted to enter their serial key and the system shall verify information and password with the service provider
+__label__NFR system shall require a good internet connection for optimal performance
+__label__FR the system shall allow camp administrators to view camp group schedules and notify counselors
+__label__NFR user shall easily find what they are looking for on the website with a simple web design ensuring ease of use
+__label__FR the user shall be able to create a menu entry by providing a dish name description and price
+__label__NFR system shall provide accessibility features to accommodate users with disabilities and support multiple languages for international users
+__label__NFR the sql database must have scalable capacity
+__label__FR admin shall be able to read users feedback and complaints to improve the service provided
+__label__FR the system shall record embargo and access control metadata for items
+__label__FR user shall be able to reset a users password for them
+__label__FR system shall use ajax calls for removing shortlisted properties employing jquery on the client side
+__label__FR crafty kids corner shall include safety tips and guidelines for handling art supplies and performing crafting activities emphasizing the importance of adult supervision
+__label__NFR the system shall support language agnostic operation for portability including english turkish finnish and italian for the identified replication partners
+__label__NFR system shall facilitate convenient payment processing for individual sponsorships
+__label__FR users session shall automatically redirect to the login page if it expires
+__label__FR system shall display a login window on the theaacom website for each user
+__label__FR user shall be able to update profile information as needed
+__label__FR users who create a new game will be able to change the ability level of any co involved in the game
+__label__NFR user shall experience portability between microsoft windows and linux platforms for both intranet and internet versions of the system
+__label__FR system shall be able to allow clients to view driver history
+__label__NFR the system shall be scalable to accommodate police stations of all sizes and caseloads
+__label__NFR user shall have a maximum of three attempts to enter the password after which an email notification will be sent if theres an additional attempt
+__label__FR user shall be able to efficiently store and retrieve data in mysql databases
+__label__FR user shall share a dataset type across multiple applications that include the dataset types code in their artifacts
+__label__NFR user shall have access to handicapfriendly features for improved accessibility
+__label__NFR system shall allow users to participate in online discussions about lpg
+__label__NFR the system shall be reliable and the network connectivity in the supermarket shall be stable for smooth operations and data flow
+__label__FR if a question is not understood by our api the system will send a text containing an example question after the text with the api response
+__label__FR user shall be able to compose emails by clicking on the compose button and entering recipient email subject and message
+__label__FR user shall be able to customize preferences in alfreds functionalities
+__label__NFR crafty kids corner shall regularly update security measures and patches to protect against vulnerabilities
+__label__FR the apaf system shall acquire from esoc the telemetry data of the aspera3 experiment and mars express orbitattitude
+__label__NFR the system must provide adequate response times for commonly performed functions under both standard and peak conditions
+__label__FR the system shall allow admins to validate and edit video segmentation
+__label__NFR user shall ensure uninterrupted connections and maintain a high data transfer rate
+__label__NFR the administrator shall have the ability to remove a user from the system
+__label__FR system shall display the initial screen if no cash card is present
+__label__FR the preferred repair facility shall be returned to the user
+__label__FR system shall recommend similar items based on the users buying pattern
+__label__FR the system shall provide a history report of changes made to the activity or event data
+__label__FR user shall be able to exchange information with police unitspersonnel
+__label__FR user shall be able to perform the weekly roster of employees
+__label__NFR the system shall use the organizations standard virus protection software to help monitor threats to itself
+__label__NFR user shall benefit from optimized resource utilization to minimize memory cpu and network bandwidth consumption ensuring scalability and performance in resourceconstrained environments
+__label__FR delivery boys shall receive cash payments upon order completion
+__label__NFR system shall manage up to 10 terabytes of information in various formats
+__label__FR user shall view and select available examination categories
+__label__NFR the system shall be userfriendly and intuitive for users of all technical abilities
+__label__NFR a database management system such as oracle db2 mysql or hsql will need to be integrated with the product
+__label__FR user shall be able to log in using email or mobile number
+__label__NFR system shall display the customer homepage for online car booking showcasing available cars and enabling selection for specific time spans
+__label__FR a customer shall be able to place an order through their engaged menu if it is pending and not empty
+__label__FR system shall allow user login without any preconditions
+__label__FR user shall notify the user when no matching product is found on the search
+__label__FR user shall view and respond to posts from other users
+__label__NFR a waiter password used for tablet login must be changed every three months
+__label__FR after adding a transportation route the user shall be able to retrieve transportation requests from other users
+__label__FR the system shall respond to user input from drawing tools with high speed and responsiveness
+__label__NFR system shall grant access to the users dashboard upon successful authentication
+__label__FR the system shall allow researchers to generate citations and share links to files
+__label__NFR the website shall be compatible with all browsers
+__label__NFR the system shall be available 995 of the time
+__label__NFR the administrator shall have the ability to create and add a new user to the system
+__label__FR system shall facilitate communication with vendors and authorize them to sell products on the site after quality assessment
+__label__NFR system shall perform proper validation of data before sending it to the database
+__label__FR user shall have the ability to create or initiate ticket retrieval requests within the disputes system
+__label__NFR colleges shall be able to register for exams at any time
+__label__FR system shall provide printed statements for user transactions
+__label__NFR system shall provide contextual help links accessible to authenticated users
+__label__FR system shall play the selected video
+__label__NFR the product shall retain user preferences in the event of a failure
+__label__NFR performance of making recommendations and updating them in realtime is crucial requiring seamless processing to ensure users do not notice data processing
+__label__FR employers shall be able to create questions for applicants to respond to when applying
+__label__FR restaurant shall be able to receive notifications once an order is delivered
+__label__NFR system shall minimize the response time between user requests and task completion
+__label__NFR the system shall be intuitive to the program administratorsnursing staff members
+__label__FR the system shall allow archivists to apply licenses and rights statements to files
+__label__FR user shall be able to search for trains by providing destination boarding place and date of journey receiving a display of available trains matching the search criteria
+__label__FR the system shall display userfriendly map view results requiring a single click to select a pin
+__label__FR user shall be able to search for events by subject
+__label__FR the system shall allow prospective applicants to research requirements and select relevant services or applications to initiate online
+__label__FR the system shall allow repository managers to create describe and update collections
+__label__FR user shall be able to select the support type
+__label__FR the system shall allow users to upload tagged videos for processing
+__label__FR clients shall be notified via email when their booking is confirmed
+__label__FR user shall have the ability to search resumes by keywords job category and days since posted
+__label__FR the system shall notify all involved participants if any the following information about the meeting is modified
+__label__FR a waiter shall be able to log out of a tablet
+__label__FR system will display a message confirming that the problem or issue has been submitted successfully
+__label__FR the system shall restrict language selection to the main application
+__label__FR each idea shall be listed on its own line in a numbered list in the idea phase
+__label__NFR the system shall run on various operating systems including windows and linux and be compatible with pcs laptops and pdas
+__label__NFR software design will prioritize modularity for efficient maintainability
+__label__FR a tablet shall allow a waiter to accept an order placed by a customer through a surface computer
+__label__FR the system shall allow deposit of data in documented folder structures
+__label__NFR a maximum of 10 free users shall be allowed in webble with limited access to features
+__label__FR user shall have the option to select multiple search criteria
+__label__FR system shall send an invalid serial key message to the device if the password is invalid
+__label__NFR companies shall be able to post jobs and add job details
+__label__FR the dispute panel shall manage customer requests for order replacements or cancellations if items are not available
+__label__NFR system shall be able to connect to power through an electrical outlet and support network connections via ethernet port and serial port jack
+__label__NFR system shall be available 24 hours a day
+__label__NFR the multimahjongserver will have no graphical user interface and will be run using a command prompt
+__label__FR system shall be able to search for the tolocation by the name of a poi
+__label__NFR the product shall create an exception log of problems encountered within the product for transmission to our company for analysis and resolution
+__label__NFR the system shall be userfriendly for various user roles archivists researchers donors
+__label__FR user shall be able to autofill details using accounts from google linkedin facebook or yahoo
+__label__FR system shall be able to check if user credentials are valid and display an error message if invalid
+__label__FR user will choose from options including searching for their issue chatting with customer support asking the community emailing customer support or calling customer support
+__label__FR the client will be able to parse the json and determine if there was an error
+__label__NFR the system shall handle high volumes of concurrent users without performance degradation
+__label__NFR the hardware part of the system shall be able to perform indefinitely without complete loss of service except in the event of total failure of primary and backup power
+__label__NFR in case of hardware failure or database corruption a replacement page will be displayed and backups will be retrieved and saved by the administrator
+__label__FR first field will be add task name
+__label__NFR system shall preserve both content and metadata within the repository
+__label__NFR the hardware part of the system shall be able to perform indefinitely without complete loss of service except in the event of total failure of primary and backup power
+__label__FR delivery boy shall be able to reach the restaurant and check with order details
+__label__FR internal notes on applicants shall be maintainable
+__label__NFR user shall experience optimized mobile responsiveness for seamless access from smartphones and tablets
+__label__FR the system shall perform automatic animal number detection in snapshot serengeti
+__label__FR the tcs shall have the capability to simultaneously control and monitor a lineofsight as well as a blos data terminal
+__label__FR screen resolution shall be at least 800x600 for complete viewing
+__label__FR user shall be able to log out by clicking on the logout button
+__label__FR system shall use ajax calls for deleting properties utilizing jquery on the client side
+__label__FR the server shall have a supported version of a common linux distribution ubuntu 1804 lts ubuntu 2004 lts ubuntu 2204 lts ubuntu 2210 centos debian or rhel
+__label__FR admins shall display toprated restaurants and offers
+__label__FR the disputes system shall preserve user phases even when moderators revert to a previous phase
+__label__NFR user shall access the system reliably with an uptime of at least 99 over a 30day period
+__label__FR user shall be able to register for a summit to reserve a seat
+__label__FR the system shall restrict access to resources based on user roles and permissions
+__label__FR users shall specify a timeframe eg one day one week one month for forecasts
+__label__FR the system must allow a member of the network to send requests to a particular or all the other members about possible delivery of a drivers smart card to a similar person
+__label__FR administrators shall be able to modify the list of english news rss feeds
+__label__NFR system shall facilitate easy signup for the badcamp newsletter
+__label__FR system shall provide a userfriendly web interface for depositors to submit and manage datasets without requiring additional software installation
+__label__NFR the system shall operate smoothly and respond to user actions with minimal delay
+__label__NFR system shall provide rolebased control for functionalities within the system
+__label__NFR ideally each error message will be accompanied by explanatory text and an indication of the actions which the user can take in response to the error
+__label__FR the system shall allow editing items in the estimation list
+__label__NFR all transactions with the customers web browser shall be confirmed by the system for secure data transfer
+__label__NFR the system shall have a userfriendly interface that is intuitive and easy to navigate
+__label__FR system shall provide crud functionality for archival descriptions
+__label__NFR adobe photoshop shall be designed to achieve a rapid operational restart minimizing customer inconvenience
+__label__FR user shall be able to add transportation routes from the map
+__label__NFR the user interface shall be intuitive userfriendly and accessible to users with varying levels of technical expertise
+__label__FR user shall use the barcode scanner feature to retrieve detailed information about food products by scanning their barcodes
+__label__FR system shall monitor user attendance data and send notifications for tardiness or absences
+__label__NFR the passport management website should provide maximal security
+__label__FR diagnostic results that are saved to permanent storage shall be accompanied in storage by the absolute time of occurrence the identity of the unit to which the diagnostic applies and the identity of the diagnostic
+__label__NFR system shall provide meaningful error messages when pipeline creation fails due to an existing dataset being incompatible with the pipeline requirements
+__label__NFR the system shall be compatible with any windows platform with any version of a web browser
+__label__NFR access to the systems backend servers shall be restricted to authenticated administrators
+__label__FR the dispute panel shall reassign orders if delivery boys fail to acknowledge requests
+__label__FR user shall be able to search for a person by department
+__label__FR user shall be able to access faqs through the help function
+__label__NFR system shall update user stats in real time after every achievement or completed action for an enhanced gaming experience
+__label__NFR performance must meet specified requirements even under high user load
+__label__NFR user shall be able to change perspective and orientation through a touch scroll bar serving as the central mechanic of the game
+__label__FR a moderator shall be able to specify a warning for total time remaining
+__label__FR users shall be able to flag inappropriate content
+__label__NFR user shall be able to rely on the systems redundancy measures ensuring the reliability of data storage and minimizing the risk of data loss
+__label__NFR the system will be designed in such a way that the algorithms for the four main units will be easily swapped out
+__label__FR system shall be able to check their rosters
+__label__NFR stockify shall seamlessly integrate with various external news sources stock exchanges and other financial apis
+__label__FR user shall be able to create blog posts to share information about badcamp for public outreach
+__label__FR tcs shall display a lol timer to the operator initiating a lol onset
+__label__FR the system shall allow members to download training materials and methodology pdfs if applicable based on membership level
+__label__NFR touch screen and button response time must not exceed 5000 milliseconds
+__label__NFR the system shall react to user input for routine activities in two seconds or less
+__label__NFR only teachers shall mark students attendance neither admin nor students shall do so
+__label__FR quarterly patient profiles without consultation requests for the last 3 years and consultation requests more than 3 years old shall be archived to improve performance
+__label__NFR the product shall interface with the choice parts system providing the feed of recycled parts data
+__label__FR user shall be able to update their user profile to connect with other drupalists at badcamp
+__label__FR the user shall be able to enter their seat number for the exam
+__label__FR the system shall notify the user of any schedule changes
+__label__FR the system shall provide charts for the activity or event actual versus assumed time
+__label__FR the system shall allow trainers to create new courses and events
+__label__FR the system shall allow parents to view a schedule of their childs activities at camp
+__label__NFR system shall comply with relevant privacy regulations and standards to safeguard user privacy and data security
+__label__FR user shall follow exact sequencing of operations for system tasks
+__label__NFR all private data uploaded by users will be strictly confidential to other users and users will be able to report suspicious activity to the security department
+__label__FR system shall update the likesdislikes of videos in the database
+__label__NFR the application requires an internet connection to function
+__label__FR the database will be updated periodically and the api will be unavailable during the update
+__label__FR the system shall monitor the examination name for which the answer key is requested
+__label__NFR the connection between the client and server shall have at least 20 mbps bandwidth
+__label__NFR user shall have access to the system at all times ensuring 247 availability
+__label__FR users shall be able to view the profiles of doctors within the practo network and fetch their complete profiles in a single request returning multiple results for convenient search
+__label__FR card reader shall be a magnetic stripe reader with smart card option and include an extra indentation for card polarization
+__label__FR job searching by location qualification categories company experience and keywords shall be enabled
+__label__NFR system shall allow browsing content by author or subject area
+__label__FR administrator shall be able to send newsletters to clients
+__label__FR a chef shall be able to accept a customers order item through a display
+__label__FR the system shall allow the user to change the password
+__label__FR upon selecting subscription system shall display videos from channels subscribed by the user
+__label__FR the user shall be able to view their list of assignments ordered by due date
+__label__NFR fabs user shall download the uploaded fabs file for recordkeeping and review purposes
+__label__FR the system shall provide limited but necessary operations for workers
+__label__FR the system shall enable users to generate reports and analyze sales data and marketing trends
+__label__FR a waiter shall be able to deactivate a surface computer and consequently close its associated account through a tablet
+__label__FR user shall be able to attach subjectspecific metadata to datasets for improved discoverability
+__label__FR the application shall maintain a list of classes for the user
+__label__NFR system shall prioritize security and performance as software quality attributes
+__label__FR system shall allow users to select other tue related twitter sites from a list upon starting the twitter app content of the list is defined in requirement ucar903
+__label__FR system shall be able to allow customers to open different types of accounts
+__label__FR system shall allow browsing collections and viewing metadata
+__label__FR system shall be able to allow staff to perform online data entry
+__label__NFR the system shall use a commercial database and an application server to maintain the database and site
+__label__FR adobe illustrator shall support both intel and amd processors
+__label__FR delivery boy shall be able to receive customer details from restaurant
+__label__NFR the system shall perform an authentication process for login and payment through a bank card
+__label__FR texts sent to that number will be sent to the api then the system will reply to the user with the answer as another text message
+__label__FR faculties shall be able to upload assignments announcements and answer sheets
+__label__FR clients shall be able to make a booking through the system
+__label__NFR the security requirements of the system shall adhere to industry standards and best practices
+__label__FR system shall output valid temperature status if temperature data is within valid range
+__label__FR user shall be able to register by providing username surname password and email
+__label__FR session creators and moderators shall be able to import data from previously closed sessions into a currently open session
+__label__NFR the system shall validate credit cards against fraud
+__label__FR user shall input information about their childs routine care including weight feedings and oxygen saturation on the track your child page
+__label__FR system shall provide online help faqs and sitemap options for customer support
+__label__FR the tcs shall display the av status to include but not be limited to the av location and flight and avionics system status
+__label__NFR the application must be able to link up with the internal system in order for users to properly log in and be identified
+__label__FR system shall provide an interface for users to request nonavailability of a book which the administrator can accept or reject
+__label__NFR admins shall not dismiss an engaged menu unless the customer requests it
+__label__FR user shall be able to anonymously view public information such as recycling centers near their location before creating an account
+__label__FR the system shall allow users to send and receive messages
+__label__FR a confirmation message box shall appear before discarding a new task if the user taps close without saving
+__label__FR system shall ensure security of customer accounts and resist tampering
+__label__FR user shall be able to change their password client function
+__label__FR owners input for updating the stocks shall be processed and the database shall be updated accordingly
+__label__NFR user shall benefit from 256bit ssl encryption for secure data transmission in whatsapp
+__label__FR the system shall allow applicants to request inspections
+__label__FR administrator shall view submitted leave requests and take appropriate action
+__label__FR customer shall add products to their cart and proceed to checkout
+__label__FR delivery boy shall be able to pick up and deliver order to customer
+__label__FR based on user feedback admin shall have the ability to change or modify accessibility
+__label__FR resumes will have options for privatepublicconfidential settings
+__label__FR the system shall allow agents to send targeted messages unicast to specific agents within the organization
+__label__FR users shall remove stocks from their portfolio
+__label__NFR the product shall adhere to the corporate online availability schedule the application is brought down only within 98 of the scheduled outages per the availability schedule
+__label__FR the multimahjongserver will support an architecture whereby all computer opponents co required will reside on it instead of on the multimahjongclient programs
+__label__FR the system shall ensure patient data privacy and comply with hipaa regulations if applicable
+__label__NFR system shall ensure stability and accuracy in acceptance tests for alfred
+__label__FR user shall be able to delete a connection by selecting it and clicking the delete button
+__label__FR user shall be able to search for events by date
+__label__FR users will be able to turn the sound on or off at any stage during the game
+__label__FR the system shall search for available recycled parts for the supplied vehicle parts and suppliers
+__label__FR the system shall allow students to share resources through forums
+__label__NFR all users will be able to view the next product by swiping left to right
+__label__FR system shall offer a registration form for users
+__label__FR students shall be able to participate in forums blogs and discussions
+__label__FR the system shall assess volunteer classification weight based on experience
+__label__FR photos and cover letters will be added to profiles and job applications
+__label__NFR for returning customers the system shall validate existing credit card in system after each log in
+__label__FR the system shall allow the restaurant owner to select french as the preferred language for the web portal interface
+__label__FR the system shall allow recruiters to post job advertisements
+__label__FR user shall be able to delete a chemistlab only if no new prescription is pending
+__label__NFR the system shall allow users to assign dois to datasets for citation purposes
+__label__FR the configuration window shall have a button labeled save that when clicked will present the user with a window by which to enter a disk file or database name in which to save the modifiable data in the window
+__label__FR user will choose between linking a credit or debit card
+__label__FR system shall provide information on the responsible party for each dmp
+__label__NFR the server shall have a higher clock frequency than core count preferred
+__label__NFR passwords shall be stored in an instructor database and verified upon each session of roll or database modification
+__label__FR the system shall show who submitted each estimate in the current round
+__label__FR online registration and signup for memberships job packages postings or resume database access shall be available
+__label__FR system shall enable the administrator to manage the database and track all customer and employee records
+__label__FR user shall have an alfred device with options for customization
+__label__FR system shall be able to display a set of pois that match the search input when a user performs a search by name
+__label__NFR user shall be able to access the control panel based on their role as administrator employer or job seeker
+__label__FR user shall be guided through the application functions with a graphicsoriented startup guide
+__label__NFR the be shall be able to handle lag sets up to a maximum size of 262144 values
+__label__FR the moderator shall be able to set a warning time to email users how many minutes are left in the current session
+__label__FR the system shall perform automatic plankton segmentationlocalization in plankton portal
+__label__NFR the article manager will run on the editors pc and will utilize an access database
+__label__NFR the system shall recover gracefully from crashes or errors minimizing data corruption
+__label__FR the system shall allow the user to change following personal contact information
+__label__FR in the ingame screen users can choose emote buttons by touching them and upon selection the chosen emote shall be displayed to the other user
+__label__FR workers shall be able to search for tasks
+__label__NFR system shall support interoperability with external metadata tools and systems
+__label__FR user can register working locations of healthcare workers for use in health survey forms
+__label__FR the system shall validate user information before processing the transaction
+__label__FR the system will display a blank set of ratings if there are not ratings yet defined
+__label__FR system shall record client booking requests
+__label__NFR the system shall utilize a database to store user information and data
+__label__FR user shall be able to provide customer details including name address and phone number
+__label__#NAME? the maximum wait time for a user navigating from one screen to another within the disputes application shall be no more than 5 seconds
+__label__FR the system shall manage names positions in sequence and adjustable parameters for all processing pipeline applications
+__label__FR the carpool system shall allow users to define their availability and automatically assign them as drivers based on predetermined criteria
+__label__FR the user shall be able to view their upcoming and current tasks classes exams and reminders
+__label__NFR user shallwill be able to access the system using specified pincodes zones
+__label__FR the system shall perform drug interaction checks to ensure patient safety
+__label__FR system shall load thermostat definitions from initialization data
+__label__FR user shall have alfred integrated into a wearable device like a bracelet or necklace
+__label__NFR the system shall support multiple languages for user interface elements potentially including multilingual ebooks
+__label__FR user shall be able to login to the system as an authorized administrator using a username and password
+__label__FR user shall store the starting closing intraday high and intraday low of a stock in the database
+__label__FR user shall have access to new apps in the alfredo platform to meet changing demands
+__label__FR when a user selects the option to join an existing game the multimahjongclient will retrieve a list of any games that still require players from the multimahjongserver
+__label__FR the system shall allow selecting the estimation scale modified fibonacci or powers of 2
+__label__NFR system shall be extensible to accommodate future features and customizations
+__label__FR system shall retrieve student information email address class attributes and scores level 1
+__label__FR user shall be able to register or sign up providing necessary information
+__label__FR system shall display history section showing all the videos watched by the user
+__label__NFR user shall be required to register the software with a serial key provided in the kit
+__label__NFR system shall display the users profile with options to edit information
+__label__NFR system shall promote the use of open standards for deposition to maximize data reusability
+__label__FR newsletters shall be sent to clients email addresses
+__label__FR consumers shall be able to purchase agricultural products by searching the database for items for sale and upon successful search be redirected to the search results page
+__label__FR each user shall have a unique username and password to access their account on the site
+__label__FR user shall be able to add videos to their list by clicking add to mylist and view them on the mylist page
+__label__FR the system shall allow deleting user accounts
+__label__NFR program administratorsnursing staff members are the only people who shall have access to clinical site details
+__label__NFR the system shall enforce rolebased access control rbac for its functionalities
+__label__FR the system shall validate data integrity and format compliance during ingest
+__label__NFR a waiter that attempts to log into a second tablet while already logged into another tablet shall be rejected and notified through both tablets
+__label__NFR the system shall employ an asynchronous ingestion queue eg kafka or aws kinesis for processing video data
+__label__FR the search menu allows the user to search for student and employee information
+__label__FR user interface shall include a 10inch vga color display with 256 color resolution and touch screen support
+__label__NFR above shall be accomplished in manner that is transparent to processing communications and io software functions with the possible exception of recompilation of executables
+__label__FR users who create a new game will be able to choose to play different variations of mahjong rules other than those described in section 431
+__label__FR the flight route plan as a minimum shall include av flight path information loss of link plan av vcr control tasking if applicable to the selected av and data link control information
+__label__NFR system shall be robust
+__label__FR upon submission the system shall validate and check for duplicate or invalid entries
+__label__NFR system shall encrypt all customer data in the database
+__label__NFR the system shall be usable by users with basic pc macintosh or unix operating system knowledge
+__label__FR users will be able to chat with each other in real time
+__label__NFR the system shall offer a mobile app for computers and mobile devices for accessing onedrive
+__label__FR a waiter shall be able to activate a surface computer and consequently open its associated account through a tablet
+__label__NFR the product should enhance the productivity of collision estimators with 80 agreeing their productivity has increased within one month
+__label__NFR the system shall protect presentations from unauthorized access and modification
+__label__FR user shall be able to initialize system parameters
+__label__NFR user shallwill be able to operate the system on windows xp windows 7 or above operating systems
+__label__NFR the system shall be capable of flagging and marking corrupted data segments and proceeding without interruption or effect on other data
+__label__NFR the system shall be adaptable to different languages and currencies to cater to a global user base optional
+__label__NFR the system shall be able to email customer and vendor in less than 1 second
+__label__FR system shall allow users to search and book tours by specifying place and number of travelers providing tour plans with costs destinations and accommodations with redirection to payment gateway for booking
+__label__NFR system shall enforce access controls and permissions for sharing and managing data
+__label__FR system shall provide a feature to schedule emails to be sent at a later time
+__label__FR the system shall ensure downloaded data is reliable and usable
+__label__FR the user shall be able to view the detailed attributes of a single assignment
+__label__FR user shall be able to import ead data
+__label__NFR system shall provide notification and reminders for dmp updates and reviews
+__label__FR the system shall securely store and manage patient electronic health records including medical history diagnoses treatments and lab results
+__label__NFR user shall experience a high data transfer rate
+__label__FR system shall support the attachment of subjectspecific metadata to datasets to enhance discoverability within specific research disciplines
+__label__FR user shall be able to tag blog posts for consumption by drupal planet for increased visibility
+__label__NFR the system shall achieve 99 availability during the first six months of operation excluding nonbusiness hours
+__label__FR the tcs shall present to the operator the estimated time of arrival and fuel status at each programmed waypoint of the proposed mission plan
+__label__FR upon successful login the system shall create a secure session for the user
+__label__FR users will be able to change their iconspictures and names during the game
+__label__FR tcs shall notify the operator when av performance parameters are out of limits
+__label__FR system shall support the deletion of blogs by validating user actions and updating the database accordingly
+__label__FR user shall post questions comments or discussions related to examinations
+__label__NFR the administrator shall have the ability to remove a user from the system
+__label__FR the system shall provide the management of user rights and permissions
+__label__FR the subsystems window condition window and diagnostic information window shall display a title that indicates its specific location or absolute path in the navigation hierarchy of windows

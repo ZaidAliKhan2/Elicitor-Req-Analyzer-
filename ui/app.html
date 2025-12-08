@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Elicitor</title>
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" type="image/x-icon" href="ElicitorLogo.png" />
+    <link rel="stylesheet" href="app.css" />
+  </head>
+
+  <body>
+    <nav class="auth-navbar">
+      <div class="app-brand">
+        <img
+          src="ElicitorLogo.png"
+          alt="Elicitor Logo"
+          width="30"
+          height="30"
+        />
+        <h1>Elicitor</h1>
+      </div>
+
+      <div class="auth-status" id="authStatusContainer">
+        <a
+          href="components/login.html"
+          class="nav-btn login-btn"
+          id="navLoginBtn"
+          >Log In</a
+        >
+        <a
+          href="components/signup.html"
+          class="nav-btn signup-btn"
+          id="navSignupBtn"
+          >Sign Up</a
+        >
+
+        <div id="loggedInUserContainer" style="display: none">
+          <span id="userNameDisplay" class="user-greeting"></span>
+          <button class="nav-btn logout-btn" id="logoutBtn">Log Out</button>
+        </div>
+      </div>
+    </nav>
+    <div class="sidebar">
+      <div class="sidebar-icon new-chat" id="newChatBtn" title="New Chat">
+        +
+      </div>
+      <div class="sidebar-icon" title="Chat History">
+        <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
+          <path
+            d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm1 14h-2v-2h2v2zm0-4h-2V7h2v5z"
+          />
+        </svg>
+      </div>
+      <div class="sidebar-icon" id="docsBtn" title="Documentation">
+        <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
+          <path
+            d="M14 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11zM8 15h8v2H8v-2zm0-4h8v2H8v-2zm0-4h5v2H8V7z"
+          />
+        </svg>
+      </div>
+      <div class="sidebar-icon" title="App Integrations">...</div>
+      <div class="sidebar-icon" title="Developer Tools">...</div>
+      <div class="sidebar-avatar">ZA</div>
+    </div>
+
+    <div class="main-content">
+      <div class="top-bar" id="topBar" style="display: none">
+        <div class="project-info">
+          <span>📁 Project:</span>
+          <span class="project-badge" id="projectBadge">Not Set</span>
+        </div>
+        <div class="top-bar-actions">
+          <button class="action-btn" id="changeDomainBtn">Change Domain</button>
+          <button class="action-btn" id="endConversationBtn">
+            End Conversation
+          </button>
+          <button class="upgrade-button">Upgrade</button>
+        </div>
+      </div>
+
+      <div class="greeting" id="greeting">
+        <img
+          src="ElicitorLogo.png"
+          width="100"
+          height="100"
+          alt="Elicitor Logo"
+          onerror="this.style.display='none'"
+        />
+        <div id="greetingText">
+          <span class="greeting-star"></span> Evening, zaid ali
+        </div>
+      </div>
+
+      <div id="chatArea" class="chat-history"></div>
+
+      <form class="chat-form" id="chatForm">
+        <textarea
+          id="chatInput"
+          class="chat-textarea"
+          placeholder="How can I help you today?"
+          rows="1"
+        ></textarea>
+        <div class="input-footer">
+          <div class="action-buttons-left">
+            <button type="button" title="Attach files">+</button>
+            <button type="button" title="Search documents">↺</button>
+            <button type="button" title="Change model">⧉</button>
+          </div>
+          <div class="model-send-area">
+            <div class="model-name">Elicitor 1.0</div>
+            <div class="model-selector-arrow" title="Select Model">
+              <svg
+                viewBox="0 0 24 24"
+                fill="currentColor"
+                width="16"
+                height="16"
+              >
+                <path d="M12 15l-5-5h10z" />
+              </svg>
+            </div>
+            <button
+              type="submit"
+              id="sendBtn"
+              class="send-button"
+              title="Send Message"
+            >
+              ↑
+            </button>
+          </div>
+        </div>
+      </form>
+    </div>
+    <div id="docsModal" class="docs-modal">
+      <div class="docs-content">
+        <button class="docs-close" id="docsClose">×</button>
+        <h2>📚 Elicitor Documentation</h2>
+
+        <h3>About Elicitor</h3>
+        <p>
+          Elicitor is an intelligent requirements analyzer that helps you
+          classify and validate software requirements for your projects. It uses
+          machine learning to determine if requirements are in scope and
+          categorizes them as functional or non-functional.
+        </p>
+
+        <h3>Requirement Classifications</h3>
+
+        <p><strong>FR - Functional Requirements</strong></p>
+        <p>
+          Requirements that describe what the system should do. These define
+          specific behaviors, functions, or features.
+        </p>
+        <ul>
+          <li>User authentication and login functionality</li>
+          <li>Product catalog and search features</li>
+          <li>Shopping cart and checkout process</li>
+          <li>Payment processing integration</li>
+          <li>Order management and tracking</li>
+        </ul>
+
+        <p><strong>NFR - Non-Functional Requirements</strong></p>
+        <p>
+          Requirements that describe how the system should perform. These define
+          quality attributes and constraints.
+        </p>
+
+        <p><strong>NFR Subcategories:</strong></p>
+        <ul>
+          <li>
+            <strong>Performance:</strong> Speed, response time, throughput
+            (e.g., "Page load time under 2 seconds")
+          </li>
+          <li>
+            <strong>Security:</strong> Authentication, encryption, data
+            protection (e.g., "All data must be encrypted")
+          </li>
+          <li>
+            <strong>Usability:</strong> User experience, accessibility, ease of
+            use (e.g., "Interface should be mobile-friendly")
+          </li>
+          <li>
+            <strong>Reliability:</strong> Uptime, availability, fault tolerance
+            (e.g., "99.9% uptime guarantee")
+          </li>
+          <li>
+            <strong>Scalability:</strong> Growth capacity, concurrent users
+            (e.g., "Support 10,000 concurrent users")
+          </li>
+          <li>
+            <strong>Maintainability:</strong> Code quality, modularity,
+            documentation (e.g., "Code must be well-documented")
+          </li>
+          <li>
+            <strong>Portability:</strong> Platform independence,
+            cross-compatibility, adaptability (e.g., "System must run on
+            Windows, Mac, and Linux")
+          </li>
+          <li>
+            <strong>Legal:</strong> Compliance, regulations, licensing, data
+            privacy laws (e.g., "Must comply with GDPR regulations")
+          </li>
+        </ul>
+
+        <h3>How It Works</h3>
+        <p>
+          <strong>1. Set Your Project:</strong> Describe your project domain to
+          establish scope boundaries.
+        </p>
+        <p>
+          <strong>2. Submit Requirements:</strong> Enter requirements one at a
+          time for analysis.
+        </p>
+        <p>
+          <strong>3. Review Analysis:</strong> See scope status, confidence
+          score, and classification results.
+        </p>
+
+        <h3>Understanding Results</h3>
+        <ul>
+          <li>
+            <strong>Scope Status:</strong> Whether the requirement fits within
+            your project domain
+          </li>
+          <li>
+            <strong>Confidence Score:</strong> How certain the model is about
+            its classification (0-100%)
+          </li>
+          <li>
+            <strong>Classification:</strong> Whether it's FR, NFR, or other type
+          </li>
+          <li>
+            <strong>Subcategory:</strong> For NFRs, the specific quality
+            attribute category
+          </li>
+        </ul>
+      </div>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>

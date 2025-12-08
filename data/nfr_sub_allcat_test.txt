@@ -1,0 +1,1210 @@
+__label__PO the application must support installation as a container image compatible with oci runtimes and document the migration procedure in developer guide
+__label__PE the platform must optimize animation performance using css transforms
+__label__SE the system should implement secure password reset mechanisms with timelimited tokens
+__label__RA the system must automatically switch to a backup data source if the primary source becomes unavailable
+__label__LE the system shall allow data subject requests including access rectification and deletion within 30 days
+__label__RA the system must be able to recover from and log system failures and errors
+__label__SC resource allocation must adjust automatically based on demand patterns
+__label__LE the application shall implement telecommunications compliance enforcing calea wiretap capability provisioning customer proprietary network information protection and 911 location accuracy requirements
+__label__SC the system should implement automated resource cleanup at scale
+__label__SE if a user has been inactive for more than 30 days the system should forcibly display a 500px wide forgotten account ad
+__label__LE the application must provide mechanisms to anonymize or pseudonymize personal data upon request and be subject to legal review at least every 12 months
+__label__LE the system should segregate customer assets and calculate capital requirements for securities custody
+__label__SC i need the system to automatically sync with all healthcare providers ive listed within the next 24 hours so i dont have duplicate records
+__label__PO the application must preserve data integrity when moved between android and ios
+__label__MA the product must allow rollback to the previous stable release within 4 hours and assign ownership to a team or role in the platform team
+__label__LE the system shall enforce data residency rules for eu member states
+__label__PE service worker update checks must occur every 24 hours maximum
+__label__PO the software shall support automatic adaptation to different garbage collection strategies and memory reclamation patterns across various runtime environments
+__label__US dropdown menus must organize options logically with clear grouping
+__label__PE api throttling must use token bucket algorithm for fair resource allocation
+__label__PE all database queries must be indexed to minimize scan time
+__label__SE the application must implement secure session storage mechanisms
+__label__PO the software must be compatible with the latest two versions of major browsers for webbased interfaces
+__label__US the system must be accessible on devices with a screen resolution of 1024x768 or higher
+__label__LE the system must support export of user data in a portable format on request
+__label__RA the trading system shall ensure data backup and recovery processes for all user data and transactions
+__label__LE the system must comply with hipaa for applicable transactions
+__label__PO the application must preserve data integrity when moved between cloud and edge environments and document the migration procedure in admin documentation
+__label__US the system should provide macro recording for repetitive task automation
+__label__US modal dismissal must work via escape key and background click
+__label__LE the application shall encrypt personal data at rest and in transit to meet regulatory requirements and be subject to legal review at least every 12 months
+__label__PE memory leak detection must run automatically in staging environments weekly
+__label__MA the codebase shall use static analysis tools to detect common errors on each commit
+__label__RA the system should provide clear alerts for degraded hardware components
+__label__SE the api shall be accessible via protocol to ensure secure data transmission
+__label__SE the system should implement automated threat hunting using behavior analytics
+__label__PO the application must support installation as a container image compatible with oci runtimes
+__label__SE the system shall store all data in a secure encrypted environment
+__label__SE file upload functionality must validate file types and scan for malware
+__label__PO the software shall support automatic detection and utilization of platformspecific compression algorithms including zlib brotli and hardwareaccelerated compression
+__label__PE the system shall be optimized for fast data processing and retrieval ensuring a seamless checkout experience for customers
+__label__PE the system must be able to handle at least 100 concurrent connections without impacting performance to ensure users can play simultaneously without delay
+__label__PE the system must be able to handle a minimum of 10000 employees without significant performance degradation
+__label__MA the software must maintain backward compatibility layers for deprecated apis allowing graceful migration paths while preventing indefinite support burden through sunset scheduling
+__label__US the system should provide a history of user actions that can be reviewed
+__label__RA the platform shall support canary deployments to minimize risk
+__label__PE the realtime map update api shall publish rider location data to subscribers within 1 second of receipt from the rider app maintaining this performance standard for up to 50000 concurrent active riders
+__label__PO the application must preserve data integrity when moved between cloud and edge environments
+__label__PE the application should handle at least 10000 concurrent users without performance degradation
+__label__LE the system must comply with pci dss for applicable transactions and be subject to legal review at least every 24 months
+__label__SC data pipelines must scale to process terabytes of data daily
+__label__SC the system must be able to scale horizontally to handle increasing demand with a minimum increase in latency of 10
+__label__MA the codebase shall maintain at least 70 unit test coverage for core modules and assign ownership to a team or role in the platform team
+__label__MA the product must have documented coding standards and contribution guidelines
+__label__PE the system shall be able to handle a minimum of 10000 requests per second without significant degradation
+__label__US the interface should reduce clicks by providing quick action buttons contextually
+__label__MA the system must provide modular design with clear separation of concerns
+__label__SE the system shall be designed to meet all applicable regulatory requirements eg gdpr hipaa
+__label__SE data encryption must occur in realtime across all api calls
+__label__SE the algorithm must ensure that all user data is encrypted in transit and at rest
+__label__MA the software shall maintain automated performance benchmarking comparing optimization attempts against baseline measurements quantifying improvement magnitude
+__label__RA the system shall ensure high levels of data redundancy and fault tolerance
+__label__SE the system shall ensure secure authentication and authorization mechanisms
+__label__US the interface shall support quick edit mode for rapid data updates
+__label__SC session state must be distributed across cache cluster with linear scalability
+__label__PE the system must be able to handle a high volume of user activity and transactions without compromising performance
+__label__MA the application must provide inline documentation and apilevel docs for all public interfaces and assign ownership to a team or role in the platform team
+__label__SC serverless architecture must support 50000 concurrent function executions
+__label__PO the system shall provide documented steps to migrate state between different versions and platforms
+__label__SE all system components must be updated with security patches within 30 days of release
+__label__RA automated monitoring should detect failures within 60 seconds
+__label__PE the system should implement efficient data serialization using binary formats
+__label__LE the product shall retain audit logs for 30 days to support legal discovery
+__label__US the interface should provide oneclick filters for common query patterns
+__label__MA the codebase shall use static analysis tools to detect common errors on each commit and assign ownership to a team or role in the operations team
+__label__MA the product shall include automated build and deployment pipelines cicd and assign ownership to a team or role in the development team
+__label__PO the system should maintain compatibility when upgrading protocol buffers or similar data format versions
+__label__US page numbers must be displayed clearly with current page highlighted
+__label__PO the system shall be distributable as a single archive ziptar for offline installation and document the migration procedure in developer guide
+__label__SE the application must use secure random number generation for all securitycritical functions
+__label__LE the application must provide a consent mechanism for cookies and tracking choices with auditable records
+__label__SC distributed tracing must handle 10 million traces per second efficiently
+__label__LE the product must maintain records of processing activities consistent with industry regulations
+__label__US the application should maintain contextsensitive glossary with examples
+__label__PO the application should run machine learning models on tensorflow pytorch or onnx runtime
+__label__US file upload must show individual file progress in batch uploads
+__label__LE the application must provide mechanisms to anonymize or pseudonymize personal data upon request and be subject to legal review at least every 36 months
+__label__SC the system should utilize content delivery networks cdns for static asset scaling
+__label__RA the system should use automated checks to prevent configuration drift
+__label__MA the software must maintain comprehensive api client libraries autogenerated from interface specifications ensuring clientserver compatibility and reducing integration errors
+__label__LE the application must provide a consent mechanism for marketing preferences with auditable records
+__label__RA the patient portal should be able to recover from a hardware failure within 30 minutes
+__label__LE the system shall maintain rolebased access controls with automated periodic access reviews generating reports suitable for soc 2 type ii audit evidence requirements
+__label__SC ensure the api can handle a minimum of 1000 concurrent requests
+__label__MA the system must provide automated bluegreen deployment capabilities enabling zerodowntime releases with traffic shifting validation periods
+__label__MA the system shall track and publish dependency versions and security advisories
+__label__PE the application must implement efficient diff algorithms for state updates
+__label__SC the platform shall implement circuit breakers to prevent cascade during scaling
+__label__PO the system shall be distributable as a single archive ziptar for offline installation
+__label__SC background jobs must be distributed across worker pools with autoscaling
+__label__LE the application must provide a consent mechanism for personal data with auditable records
+__label__LE the application must implement real estate transaction compliance capturing disclosure requirements fair housing documentation and settlement statement accuracy meeting respa regulations
+__label__US the system shall provide consistent spacing using 8pixel grid system
+__label__RA if device status is unknown then use cached data to provide a consistent user experience
+__label__SC the platform shall support scaleout database architecture patterns
+__label__SE automatically log out inactive users after 30 days of inactivity to maintain user data confidentiality and comply with gdpr regulations
+__label__PO the application must provide abstraction for biometric authentication mechanisms including fingerprint facial recognition and behavioral biometrics across device capabilities
+__label__RA i need the system to automatically log out after 2 hours of inactivity to prevent unauthorized access
+__label__RA the application must support a graceful degradation of nonessential features during high load
+__label__SE the system shall implement security controls for thirdparty integrations
+__label__PE the system must optimize css animations using transform and opacity only
+__label__MA the system shall provide automated database index recommendations analyzing query execution plans and suggesting optimizations based on observed access patterns
+__label__SC system must support at least 3 major geographic locations
+__label__PE the system shall deliver a response payload within 150 milliseconds for 95 of requests processed at the network edge locations
+__label__US an autorefreshing dashboard should be implemented to reduce the perceived delay between user input and system response
+__label__PE the system shall process payment transactions in a timely manner typically within a few seconds
+__label__RA the system shall be able to maintain its functionality for at least 50 of its expected lifespan without significant degradation
+__label__RA the platform shall test all redundancy systems through regular exercises
+__label__RA no alerts are displayed if the hospitals data center is experiencing a power outage longer than 30 minutes
+__label__PE the system shall support asynchronous processing for longrunning tasks
+__label__MA the application must provide inline documentation and apilevel docs for all public interfaces and assign ownership to a team or role in the operations team
+__label__PE database queries cannot exceed 200ms under load to ensure that the system maintains a fast response time
+__label__SE the systems data must be encrypted and protected from unauthorized access and modifications
+__label__PE the system must compress text assets to reduce transfer size by 70
+__label__PO the software should work with hadoop spark and other batch processing frameworks equivalently
+__label__MA the software must have clear comments and documentation that explain how everything works with examples
+__label__PO the software must maintain backward compatibility with data formats across three major version releases allowing seamless import of configurations and user data from legacy installations
+__label__RA service mesh must provide automatic retry with deadline propagation
+__label__SE the system should ensure that data integrity and security protocols are enabled at all times when using a public network
+__label__MA the system shall be able to backup and recover all data within 24 hours of failure
+__label__PO the application must detect and adapt to different screen densities and locales and document the migration procedure in admin documentation
+__label__PE the application must optimize runtime performance with production mode builds
+__label__PE the application must optimize svg rendering with proper use of symbols
+__label__PO the software shall export and import data in json and yaml to allow migration
+__label__PO the software shall export and import data in json csv and parquet to allow migration
+__label__PE system logging must not significantly impact the io performance
+__label__LE the system should support export of user data in a portable format on request
+__label__SE secure development lifecycle practices must be integrated into the workflow
+__label__US the interface must provide interactive onboarding for firsttime users
+__label__MA the application must provide inline documentation and apilevel docs for all public interfaces
+__label__RA the system should implement canary analysis with automatic rollback triggers
+__label__MA the system shall track and publish dependency versions and security advisories and assign ownership to a team or role in the platform team
+__label__US export dialogs must remember users preferred format selections
+__label__MA the system must support hotfixes without full downtime for critical patches
+__label__MA we need backwardcompatible enum handling so adding new values doesnt break existing clients
+__label__SE the system must validate all usersupplied file paths against traversal attempts
+__label__RA database consistency checks must run daily to ensure data integrity
+__label__SE as a security analyst i want to receive immediate alerts of potential intrusions so that i can investigate and mitigate the threat
+__label__MA the product shall include automated build and deployment pipelines cicd
+__label__MA the product must have documented coding standards and contribution guidelines and assign ownership to a team or role in the development team
+__label__MA the system needs good debugging tools including execution traces and the ability to inspect variables
+__label__US modal windows must trap focus and return focus on close
+__label__LE the application shall encrypt personal data at rest and in transit to meet regulatory requirements
+__label__LE the application must implement hazardous waste management tracking from cradletograve with manifest documentation transporter verification and disposal confirmation meeting rcra requirements
+__label__RA the system shall never display a no stock message for more than 30 seconds
+__label__PO the application must detect and adapt to different screen densities and locales
+__label__US the interface should prevent horizontal scrolling on standard desktop monitors
+__label__SC service registry must support 100000 service instance registrations efficiently
+__label__SE security testing must include dynamic application security testing tools
+__label__MA the application should support gradual rollouts so we can test changes with a small group first
+__label__MA the codebase shall maintain at least 85 unit test coverage for core modules
+__label__MA the software shall maintain explicit nullsafety annotations with compiler enforcement preventing null reference exceptions through static analysis
+__label__SC log aggregation must process 100 million log entries per second
+__label__US if my feed contains a video over 10 minutes long then show it as a horizontal scroll so that i can save space on my phone
+__label__PO the product should provide platformspecific adapters for mobile desktop and embedded modules
+__label__RA the wireless command and control link shall achieve and maintain a maximum oneway latency of 50 milliseconds for emergency return to home commands under typical operating conditions
+__label__SC the platform should implement efficient data distribution across nodes
+__label__RA the system should implement automated rollback based on error rate thresholds
+__label__SE session identifiers must be regenerated after privilege elevation events
+__label__MA the software must maintain schema evolution strategies for message formats ensuring that producers and consumers can operate with version skew without message processing failures
+__label__US input masks must format data automatically as users type
+__label__PE the application shall optimize network waterfall to eliminate blocking chains
+__label__LE we must notify affected users within 72 hours if their personal data might have been exposed in a security breach
+__label__RA the application must include monitoring of system io error rates
+__label__SE cookie security flags must include samesite attribute set to strict
+__label__SE the application shall implement protection against race conditions in transactions
+__label__MA the games localization system must support at least 10 languages and 5 different regions
+__label__LE the application shall encrypt personal data at rest and in transit to meet regulatory requirements
+__label__US the system should implement content skeleton loading for better ux
+__label__LE the software shall implement digital rights management controls that prevent unauthorized reproduction distribution or modification of licensed content while maintaining audit trails of all content access attempts
+__label__LE the system shall allow data subject requests including access rectification and deletion within 365 days
+__label__PO the system shall run on android and ios without code changes
+__label__SC the system shall be designed to support at least 100000 users before needing a major upgrade
+__label__SC the system shall support rolling restarts to manage largescale updates
+__label__RA the system must be able to recover from failures in a timely manner
+__label__MA the product must allow rollback to the previous stable release within 1 hours and assign ownership to a team or role in the platform team
+__label__US the system should provide contextual help bubbles near complex input fields
+__label__MA the product must have documented coding standards and contribution guidelines and assign ownership to a team or role in the development team
+__label__LE the product shall retain audit logs for 730 days to support legal discovery
+__label__LE the product shall retain audit logs for 90 days to support legal discovery
+__label__PE shopping cart operations should respond within 500 milliseconds
+__label__SE the system must ensure the confidentiality integrity and authenticity of patient data
+__label__PE background image rendering must not block main thread execution
+__label__PE network timeouts must be configured appropriately per operation type
+__label__MA the system must support hotfixes without full downtime for critical patches
+__label__RA database synchronization must complete within 3 seconds across regions
+__label__PE the system must be able to process payroll data at least 5 times faster than the legacy system
+__label__SC the platform shall support geographic data partitioning for compliance and scale
+__label__PE the system shall implement database query result caching for 15 minutes
+__label__MA the product shall include automated build and deployment pipelines cicd
+__label__SC the configuration management must be centralized and automatically provisioned on new instances
+__label__MA the application shall log deprecation warnings and provide migration guides
+__label__SC content delivery must utilize 300 global edge locations for scaling
+__label__LE the system must support export of user data in a portable format on request
+__label__PE the application should utilize connection pooling to reduce database connection time
+__label__RA database replication must support automatic conflict resolution strategies
+__label__SC the system must be able to handle a minimum of 100 concurrent users without any performance degradation
+__label__PO the system must enable operation across platforms with different maximum network packet sizes automatically fragmenting and reassembling messages
+__label__MA the system must provide automated container image scanning detecting vulnerable base images and outdated system packages before registry publication
+__label__US font scaling must maintain layout integrity across zoom levels
+__label__SE the application should implement security controls for graphql introspection queries
+__label__SE the system must ensure that all user data is encrypted in transit
+__label__MA the system must provide modular design with clear separation of concerns
+__label__PO the software needs to handle different timezone systems correctly across all operating systems
+__label__MA the codebase shall maintain at least 90 unit test coverage for core modules
+__label__SE the system shall ensure the confidentiality and security of employee personal data
+__label__SE the system shall encrypt all highfrequency data streams using aes256 encryption to prevent interception during peak loads
+__label__US the system shall provide undo functionality for destructive actions
+__label__US navigation breadcrumbs must show current location in hierarchy
+__label__LE the application shall maintain tamperevident logs of all administrative actions affecting user accounts meeting evidence preservation standards required for potential litigation discovery processes
+__label__SC the system should implement lazy loading strategies for resource efficiency
+__label__US users must be able to preview changes before they are permanently applied
+__label__PE the minimum frame rate for any animation must be 30 frames per second
+__label__SE the system shall ensure data security by encrypting sensitive data
+__label__PO the product should provide platformspecific adapters for cloud providers
+__label__US the system must be userfriendly and easy to navigate for users of all ages and skill levels
+__label__PO the application must preserve data integrity when moved between cloud and edge environments
+__label__RA the platform shall maintain network redundancy through diverse routing
+__label__LE the system shall allow data subject requests including access rectification and deletion within 180 days
+__label__SE security logs must be monitored in realtime with automated alerting
+__label__US the application shall support voice dictation for text input fields
+__label__PE network bandwidth utilization should not exceed 80 of available capacity
+__label__PE the time taken for database index rebuilding must be minimal
+__label__SE access to customer data must be limited based on the needtoknow principle
+__label__US the application should provide haptic feedback for mobile interactions
+__label__RA the application shall implement timeout policies for all external calls
+__label__US confirmation messages must specify what action was completed
+__label__RA when a trading system connection loses network connectivity the user must be automatically logged out within 10 seconds
+__label__PO the system shall provide a cli that runs on linux distributions and macos
+__label__SC network bandwidth must scale to support 100gbps aggregate throughput
+__label__PE message queue processing should handle 10000 messages per minute
+__label__LE the application shall encrypt personal data at rest and in transit to meet regulatory requirements
+__label__US active navigation items must be highlighted with clear visual distinction
+__label__LE the application must provide mechanisms to anonymize or pseudonymize personal data upon request
+__label__PO the application should work on different linux versions including ubuntu red hat and android
+__label__PE network round trips must be minimized to maximum 3 for initial page load
+__label__RA runbook automation must handle 90 of incidents without human intervention
+__label__RA the application should maintain separate infrastructure for monitoring systems
+__label__LE the software must provide alcohol beverage compliance implementing threetier system enforcement age verification and tiedhouse restriction monitoring meeting state abc board requirements
+__label__PE the application shall optimize database joins to maximum 3 table limit
+__label__LE the product shall display legal notices and terms of service prominently at first use
+__label__SE database user accounts must have minimum necessary privileges for their function
+__label__LE the product shall display legal notices and terms of service prominently at first use
+__label__PE memory allocation must be optimized through object pooling for frequent operations
+__label__SC security scanning must scale to analyze 100000 requests per second
+__label__PE file upload operations should complete within 10 seconds for files up to 100mb
+__label__SE database privilege escalation must be monitored and alerted in realtime
+__label__SE the system should implement automated security configuration validation continuously
+__label__PO the application must detect and adapt to different screen densities and locales
+__label__PO the system shall provide documented steps to migrate state between different versions and platforms
+__label__LE the product must maintain records of processing activities consistent with isoiec 27001
+__label__US the application shall implement responsive design for all device sizes
+__label__LE the system shall maintain insurance claims processing audit trails documenting claim evaluation criteria payment calculations and denial justifications meeting state insurance commissioner examination requirements
+__label__MA the application shall implement automated database query optimization analysis detecting n1 query problems missing indexes and inefficient join strategies during development
+__label__MA all central control apis and services shall utilize clearly defined openapi specifications and consistent versioning to facilitate future integration with external public safety and transit systems
+__label__SC observability infrastructure must scale to monitor 50000 service instances
+__label__US the algorithm must ensure the user interface remains unobtrusive and intuitive to maintain a seamless user experience allowing users to focus on content rather than interface elements
+__label__SE the system must validate all xml input against strict schema definitions
+__label__LE the application shall encrypt personal data at rest and in transit to meet regulatory requirements and be subject to legal review at least every 36 months
+__label__US the iot smart home controller must be designed with usability in mind to ensure that users can easily navigate and configure the system
+__label__PE the system must respond to user queries and requests within a specified time limit
+__label__US any missed shipment alerts must be sent via sms at least 10 minutes before the scheduled pickup time to prevent lastminute changes
+__label__RA disaster recovery rpo must not exceed 5 minutes for critical systems
+__label__US the system must be able to display device status and user activity information in a userfriendly interface
+__label__SC the publicfacing web server cluster shall maintain a peak capacity capable of handling 20000 simultaneous tcp connections with less than 1 connection refusal rate
+__label__MA the system shall track and publish dependency versions and security advisories
+__label__PO the system shall provide documented steps to migrate state between different versions and platforms
+__label__US the user interface must display a clear notification when the api fails so that the user is aware of potential issues
+__label__MA the system must support hotfixes without full downtime for critical patches and assign ownership to a team or role in the operations team
+__label__SE access keys and secrets must be rotated every 90 days
+__label__LE the application shall encrypt personal data at rest and in transit to meet regulatory requirements
+__label__LE the application must provide mechanisms to anonymize or pseudonymize personal data upon request and be subject to legal review at least every 36 months
+__label__SE the system must ensure the confidentiality and integrity of user data
+__label__LE the system shall enforce data residency rules for regions that require data residency
+__label__MA the system must support hotfixes without full downtime for critical patches
+__label__SE security vulnerability scanning should run automatically on every build
+__label__SE access to administrative interfaces must be ip restricted or vpn only
+__label__LE the product shall retain audit logs for 30 days to support legal discovery
+__label__US navigation depth must be limited to four levels maximum
+__label__US validation rules must be clearly stated before user input
+__label__PO the system shall be distributable as a single archive ziptar for offline installation
+__label__MA the codebase shall use static analysis tools to detect common errors on each commit
+__label__PE the application must optimize clientside routing with code splitting per route
+__label__MA the product must allow rollback to the previous stable release within 2 hours and assign ownership to a team or role in the operations team
+__label__MA the system shall track and publish dependency versions and security advisories
+__label__SC the system should implement writethrough caching for scalable data access
+__label__US display system loading messages in all supported languages to cater to users with varying native languages and facilitate compliance with accessibility regulations
+__label__PO the software shall export and import data in json and yaml to allow migration and document the migration procedure in admin documentation
+__label__US the system shall provide clear feedback when a user hovers over an interactive element
+__label__LE the application must provide mechanisms to anonymize or pseudonymize personal data upon request
+__label__RA database transactions must use two phase commit for distributed consistency
+__label__MA the software must log errors with enough detail that we can troubleshoot problems without accessing the live system
+__label__RA mean time to recovery must not exceed 1 hour for critical system failures
+__label__LE the system must comply with pci dss for applicable transactions
+__label__LE the software must screen blood donors test products and investigate transfusion reactions
+__label__PE the system must operate within a maximum response time of 2 seconds for most user interactions
+__label__US help documentation must include searchable frequently asked questions section
+__label__RA load balancers must detect and remove unhealthy instances automatically
+__label__RA the application shall maintain core functionality with 50 infrastructure loss
+__label__PE the system shall be able to handle a minimum of 10000 concurrent user sessions without a significant degradation in performance
+__label__PE the application must support efficient pagination for large data sets
+__label__LE the product must maintain records of processing activities consistent with industry regulations
+__label__PO the software shall export and import data in csv json and xml to allow migration
+__label__SE the application must implement protection against xml bomb attacks
+__label__MA the codebase shall use static analysis tools to detect common errors on each commit and assign ownership to a team or role in the development team
+__label__US the application should offer a streamlined process for bulk actions
+__label__SC application architecture should enable independent team scaling and deployment
+__label__PE database queries cannot exceed 200ms under load to maintain the overall system performance and prevent data inconsistencies
+__label__SC the platform shall support capacity planning with growth projections
+__label__SC ensure that our system can handle at least 10000 concurrent shipments under load so that our operations team can manage the volume efficiently
+__label__MA the system must provide modular design with clear separation of concerns
+__label__PE the game should be optimized for 4k resolution displays
+__label__SE the system must implement protection against host header injection attacks
+__label__LE the system shall allow data subject requests including access rectification and deletion within 90 days
+__label__SE no personal identifiable information can be stored in a database located outside north america
+__label__LE the software shall provide securities custody compliance implementing segregation of customer assets net capital calculations and customer protection rule adherence meeting sec brokerdealer requirements
+__label__LE the product must maintain records of processing activities consistent with applicable privacy laws
+__label__PE api response times must remain under 100ms for 50th percentile requests
+__label__US the system shall implement smart forms that hide irrelevant fields dynamically
+__label__SE the application must enforce resource limits to prevent memorybased dos attacks
+__label__SC as a publisher i need the algorithm to favor my content over others so that my business doesnt suffer
+__label__US the system shall implement smart autocomplete with fuzzy matching
+__label__SE security incident response times must meet defined sla requirements
+__label__PE pagination should use cursor based navigation for better performance with large datasets
+__label__SE the patient portal must comply with the health insurance portability and accountability act hipaa regulations regarding patient data protection
+__label__LE the application shall provide endusers with the ability to request complete data portability packages containing all personally identifiable information in machinereadable json format within 30 calendar days of verified request submission
+__label__US the interface should show clear indicators for active background processes
+__label__PE the api shall be able to handle a minimum of 1000 concurrent requests within a 5minute time frame
+__label__PO we want to switch between hashicorp vault aws secrets manager and azure key vault seamlessly
+__label__SE the application shall sanitize all output to prevent xss attacks
+__label__LE the software must document apprenticeship training onthejob learning and competency evaluation
+__label__LE the system must support export of user data in a portable format on request
+__label__MA the codebase shall use static analysis tools to detect common errors on each commit and assign ownership to a team or role in the operations team
+__label__SE security headers must be validated in automated security testing pipeline
+__label__US the trading system must be designed with a consistent and intuitive user interface
+__label__SC cdn integration must support global content distribution and scaling
+__label__PE the system should implement request prioritization for premium user traffic
+__label__RA the system shall be able to recover from power outages and other failures
+__label__SC the platform shall handle webhook delivery to million subscribers efficiently
+__label__US as a customer i want to see a clear shipping estimate and handling instructions so that i can make an informed decision
+__label__PO the application needs automated testing that confirms it works the same way on all supported devices and operating systems
+__label__LE the system shall maintain pension plan administration documenting vesting calculations benefit determinations and participant disclosures meeting erisa fiduciary responsibility requirements
+__label__PE the system shall prioritize critical functions over background tasks
+__label__US the api system must be designed with accessibility in mind meeting all relevant accessibility standards wcag 21
+__label__US navigation should be consistent across all pages and modules
+__label__RA api calls must be buffered to handle temporary outages in payment services without causing excessive latency
+__label__PO the system should work with different database settings and locking behaviors across mysql postgresql oracle and sql server
+__label__PO the application must detect and adapt to different screen densities and locales
+__label__US the application should provide keyboard shortcuts reference guide
+__label__PE the system shall be able to handle a minimum of 50 devices connected to it simultaneously
+__label__MA the codebase shall maintain at least 70 unit test coverage for core modules
+__label__US users must be able to correct errors easily without losing input data
+__label__SE security training must include secure coding practices for all developers
+__label__PO the system must work correctly regardless of operating system limits on open file handles
+__label__RA data consistency checks must run automatically on schedules
+__label__LE the software shall implement geolocationaware data residency controls that automatically route and store citizen data within the originating countrys borders to comply with data sovereignty regulations in 27 jurisdictions
+__label__PE database queries cannot exceed 200ms under load as it would negatively impact user experience
+__label__SC the system shall support rapid deployment of hotfixes across all nodes
+__label__SE the system shall use secure communication protocols  for all payment transactions
+__label__SC multicloud deployment must provide unified scaling control plane
+__label__US the interface should position primary actions prominently in button groups
+__label__MA the application must implement feature flags enabling runtime behavior modification without deployments allowing gradual rollout and rapid rollback of functionality changes
+__label__US users must be able to define and save custom report templates
+__label__RA multiregion architecture must maintain service during submarine cable cuts
+__label__RA the system should use resource quotas to prevent a single service from exhausting shared resources
+__label__PE the transaction processing rate must not drop below 95 of the target during peak load
+__label__PE the system must implement efficient sorting algorithms for large datasets
+__label__MA the application needs infrastructure defined as code so environments are consistent and reproducible
+__label__RA automated alerting must notify oncall engineers within 2 minutes of incidents
+__label__SE api security must include protection against replay attacks
+__label__MA the product must allow rollback to the previous stable release within 1 hours and assign ownership to a team or role in the operations team
+__label__LE the application shall implement securities investor accreditation verification workflows capturing income documentation net worth calculations and qualification status meeting regulation d requirements
+__label__RA database lag must trigger automatic failover if exceeding 5 seconds
+__label__LE the product shall retain audit logs for 90 days to support legal discovery
+__label__SC microservices must communicate through scalable message broker infrastructure
+__label__MA the codebase shall maintain at least 90 unit test coverage for core modules
+__label__SC the platform shall identify performance bottlenecks through automated analysis
+__label__US the system shall display expiration warnings in highcontrast text and distinct iconography to ensure visibility for users with color vision deficiencies
+__label__US success messages must confirm completed actions clearly
+__label__RA the platform should automatically switch to readonly mode if writes fail
+__label__PO the system shall be distributable as a single archive ziptar for offline installation
+__label__RA the platform should support instant pointintime recovery for databases
+__label__SE the system should implement automated penetration testing in staging environments weekly
+__label__US the system shall ensure all interactive elements on the checkout page buttons input fields meet wcag 21 level aa contrast ratio standards at least 451
+__label__RA the api must be able to store and retrieve weather data for a minimum of 3 years
+__label__LE the application shall encrypt personal data at rest and in transit to meet regulatory requirements and be subject to legal review at least every 24 months
+__label__SE all api requests shall be encrypted with aes256
+__label__RA if a users medical history exceeds 10mb then the portal must automatically archive and reduce it to 10mb to prevent data loss
+__label__SE the application shall implement proper handling of authentication failures
+__label__RA no patient records can be updated after the 5year retention period ends
+__label__PO the system shall run on x86 and arm architectures without code changes
+__label__US the system shall allow users to rate and review their shopping experiences
+__label__SE encryption keys must be stored in hardware security modules where available
+__label__LE the product shall retain audit logs for 90 days to support legal discovery
+__label__RA the sensor data pipeline shall implement idempotent message processing to prevent duplicate or outoforder vehicle count readings from causing inaccurate signal timing calculations
+__label__LE the system shall enforce data residency rules for eu member states
+__label__PO the system shall run on x86 and arm architectures without code changes and document the migration procedure in installation manual
+__label__PO the system shall run on cloud and edge environments without code changes
+__label__SE if an unknown device attempts to connect to the network then the system immediately disconnects it and sends an alert to the homeowner
+__label__RA system documentation must include failure recovery procedures
+__label__US users must be able to easily switch between different user accounts or profiles
+__label__SC analytics processing must scale to handle terabytes of daily data
+__label__US the system must be easily accessible and usable by patients with disabilities
+__label__PO the software shall support operation across platforms with different file locking mechanisms automatically selecting appropriate advisory or mandatory locking
+__label__PE the system shall be optimized for highperformance processing of large datasets
+__label__SE all user data must be encrypted in transit according to gdpr regulations
+__label__PE the application should use web workers for cpuintensive client operations
+__label__MA the application should clearly define where database transactions start and end to prevent data inconsistencies
+__label__SC if data is older than six months the system must automatically flag it for deletion to maintain compliance
+__label__PE the system should utilize content delivery networks for 95 of static assets
+__label__PE mobile gestures must respond within 50 milliseconds for native feel
+__label__PE database connection lifetime must be managed to prevent connection leaks
+__label__LE the application must provide a consent mechanism for marketing preferences with auditable records
+__label__LE the product must maintain records of processing activities consistent with applicable privacy laws
+__label__US location indicators must show current position in navigation hierarchy
+__label__LE the product must maintain records of processing activities consistent with applicable privacy laws and be subject to legal review at least every 24 months
+__label__PO the system shall provide a cli that runs on linux distributions and macos
+__label__RA the game shall automatically apply 10 damage reduction due to the players current health status
+__label__SE api authentication must support certificatebased authentication for services
+__label__MA the application must provide inline documentation and apilevel docs for all public interfaces
+__label__MA the application needs cost analysis tracking to identify infrastructure optimization opportunities
+__label__PO the software needs to handle text sorting and display consistently across different language libraries
+__label__PO the software must be compatible with the latest two versions of major browsers for webbased interfaces and document the migration procedure in admin documentation
+__label__SE no personal identifiable information pii data can be stored on mobile devices without a twofactor authentication mechanism
+__label__LE the system should manage product recalls including consumer notification and defect tracking
+__label__SE the api should provide a secure connection using tls 12 or higher
+__label__LE the application must provide mechanisms to anonymize or pseudonymize personal data upon request
+__label__LE the application must provide mechanisms to anonymize or pseudonymize personal data upon request
+__label__US the application shall implement virtual scrolling for large data tables
+__label__RA the system shall implement saga pattern for distributed transactions
+__label__SE the security subsystem shall implement rate limiting on the login endpoint to reject more than 5 failed login attempts per user per minute to mitigate bruteforce attacks without impacting normal user access
+__label__US filter panels must persist state across user sessions automatically
+__label__PE the system should optimize xml parsing for large document processing
+__label__US the system shall be easy to navigate and use even for users who are not familiar with iot devices
+__label__MA the product shall include automated build and deployment pipelines cicd
+__label__SC the system shall be able to scale to accommodate a growing number of devices and users
+__label__PE resource hints must be used to prioritize critical resource loading
+__label__LE the application shall implement construction contractor licensing verification workflows capturing insurance documentation bonding requirements and complaint history meeting state contractor board requirements
+__label__PE page transitions must animate smoothly at 60fps without frame drops
+__label__PO the product should provide platformspecific adapters for cloud providers
+__label__SC the system shall be able to accommodate a minimum of 100 concurrent payroll imports from thirdparty systems without significant performance degradation
+__label__MA the system must support hotfixes without full downtime for critical patches
+__label__LE the application should automatically identify and label sensitive information like social security numbers and health records
+__label__SC log aggregation systems must scale to handle millions of log entries per minute
+__label__SC all drone components including the ai sensors and propulsion system must be able to operate at minimum power consumption below 10 watts
+__label__LE the system must comply with ccpa for applicable transactions
+__label__LE the product must maintain records of processing activities consistent with applicable privacy laws
+__label__RA the application should implement aggressive rate limiting during degradation
+__label__SE api security must validate callback urls against strict whitelist patterns
+__label__RA the system must be able to recover from a failure of a database node without significant data loss
+__label__US as a patient i want to receive personalized health recommendations based on my medical history so that i can make informed decisions
+__label__RA service dependencies must have defined timeout and fallback mechanisms
+__label__US the time required for a new user to complete a core task must be measurable and minimized
+__label__LE the system must comply with pci dss for applicable transactions
+__label__US the application shall display progress through multipage forms prominently
+__label__US the system shall ensure that the checkout process is intuitive and easy to use with clear and concise instructions
+__label__SC the system shall be scalable to accommodate a minimum of 1000 drones in a single network
+__label__PO the software shall export and import data in json csv and parquet to allow migration
+__label__RA the system should log and report all unhandled exceptions
+__label__PO the system must handle environment variable size limits appropriately
+__label__SC the api shall be able to handle data volumes exceeding 100 gb within a 24hour time frame
+__label__RA deployment validation must include synthetic transaction monitoring
+__label__PE data encryptiondecryption must not introduce noticeable performance penalties
+__label__SE all sensitive player information must be stored encrypted in a secure location accessible only by authenticated administrators
+__label__RA the system shall automatically block further requests to a nonresponsive service instance
+__label__US the system shall reveal advanced options only when users request them
+__label__LE the application shall encrypt personal data at rest and in transit to meet regulatory requirements
+__label__MA the product shall include automated build and deployment pipelines cicd
+__label__SC the system shall be able to scale to meet the needs of a hospital with over 1000 employees
+__label__LE the application must provide mechanisms to anonymize or pseudonymize personal data upon request
+__label__RA health degradation must be detected before complete service failure
+__label__SC the feed generation service shall be capable of horizontally autoscaling its processing capacity by 20 within 5 minutes of detecting a sustained traffic increase of 10 or more
+__label__PO the application must support installation as a container image compatible with docker and ocicompliant runtimes
+__label__SC the platform shall handle file uploads through distributed storage systems
+__label__US the interface should use highcontrast colors to meet wcag aa accessibility standards
+__label__RA the system should be able to recover from system failures
+__label__RA the application shall use hedged requests for latencycritical operations
+__label__PE the system must have a 30ms delay between player inputs to prevent excessive action
+__label__US the system shall have a userfriendly interface that is accessible on all major devices
+__label__PE critical thirdparty scripts should be loaded asynchronously
+__label__PE the system must implement efficient url routing with radix tree structure
+__label__LE the system must support export of user data in a portable format on request and be subject to legal review at least every 12 months
+__label__RA recovery time objective must be 30 minutes for all critical systems
+__label__US the application should display inline help videos for complex features
+__label__SE security logs should be forwarded to centralized siem system in realtime
+__label__MA the codebase shall use static analysis tools to detect common errors on each commit
+__label__SE the system shall implement zero trust architecture with continuous verification
+__label__LE the product must maintain records of processing activities consistent with isoiec 27001
+__label__SC the network topology must be designed to avoid single points of congestion
+__label__MA the codebase shall maintain at least 75 unit test coverage for core modules and assign ownership to a team or role in the operations team
+__label__SE the system shall store payment information securely using industrystandard encryption methods
+__label__SE the system shall authenticate all interservice communication using mutual tls mtls certificates to prevent unauthorized access within the cluster
+__label__RA the application shall support activeactive writes with conflict resolution
+__label__SE data at rest and in transit must be encrypted using fipscompliant algorithms
+__label__PE memory profiling should be conducted regularly to identify and fix leaks
+__label__SE the application must implement input sanitization at multiple layers defensively
+__label__RA error handling across all apis must be consistent and informative
+__label__MA the software should use version numbers for apis with 12month warnings before breaking changes
+__label__RA the application shall implement bulkhead isolation at api gateway level
+__label__PO the application must detect and adapt to different screen densities and locales
+__label__SE system administrators shall use dedicated nonprivileged accounts for daily work
+__label__MA the system must be able to provide an error log for a minimum of 1 year
+__label__MA the games maintenance team must be able to easily update and patch the game
+__label__US the application should support a dark mode or night theme option
+__label__LE the application must provide mechanisms to anonymize or pseudonymize personal data upon request
+__label__US keyboard shortcuts must be available for all frequently performed actions
+__label__PO the product should provide platformspecific adapters for thirdparty storage systems and document the migration procedure in developer guide
+__label__RA the system shall maintain a reliability rate of at least 999 for all system components
+__label__PO the application must preserve data integrity when moved between android and ios
+__label__SC the platform shall enable seamless migration to larger infrastructure
+__label__PE the system must utilize browser idle time for noncritical processing
+__label__MA the system must provide modular design with clear separation of concerns and assign ownership to a team or role in the development team
+__label__SE the platform should implement anomaly detection for suspicious activities
+__label__PO the system needs to support different event sourcing frameworks while maintaining compatibility
+__label__PO the application must support installation as a container image compatible with docker and ocicompliant runtimes
+__label__SC the system shall be able to scale to accommodate at least 1000 devices and 10 users simultaneously
+__label__SC the system shall be designed to minimize its environmental footprint using only recyclable materials
+__label__US notification center must aggregate alerts with filtering capabilities
+__label__RA the system must be able to recover from hardware failures or network partitions
+__label__SC the data distribution strategy must minimize crossshard transactions
+__label__LE the product shall retain audit logs for 730 days to support legal discovery
+__label__US i need to be able to pause the game while still being able to control my characters remotely
+__label__RA the system shall be able to store and retrieve data in a maximum of 5 minutes after data is generated
+__label__SC the platform shall support ab testing infrastructure that scales independently
+__label__PO the application must support installation as a container image compatible with docker and ocicompliant runtimes
+__label__PE the ui rendering time after a state change should be imperceptible
+__label__SC microservices architecture must allow independent scaling of different components
+__label__US the application shall use informative legends and labels for all charts and graphs
+__label__MA the application shall log deprecation warnings and provide migration guides
+__label__PE database queries for room configurations and automation rules must be optimized for less than 1 second execution time
+__label__SE the authentication module shall implement multifactor authentication mfa using the totp standard for all administrative and content upload accounts to prevent unauthorized content manipulation
+__label__US icons must be sized minimum 24x24 pixels for touch accessibility
+__label__US if user has a valid account the system should be able to authenticate their identity within 2 seconds without any error
+__label__SE api endpoints should require authentication tokens in request headers
+__label__US the interface should provide preview before executing batch operations
+__label__LE the system shall comply with ccpa for applicable transactions
+__label__SE security headers must include xcontenttypeoptions to prevent mime sniffing
+__label__MA the application shall log deprecation warnings and provide migration guides
+__label__SC the game must be able to scale to accommodate an increasing player base
+__label__MA the codebase shall use static analysis tools to detect common errors on each commit
+__label__SC database connections must scale to 100000 concurrent connections
+__label__PO the system shall run on android and ios without code changes
+__label__MA the system must support hotfixes without full downtime for critical patches
+__label__US the system should implement smart sorting based on relevance
+__label__PO the application must support installation as a container image compatible with oci runtimes
+__label__PO the application must support installation as a container image compatible with docker and ocicompliant runtimes
+__label__MA the application must provide inline documentation and apilevel docs for all public interfaces
+__label__PO the application must run on java net python or nodejs environments from the same installation package
+__label__PO the application must support installation as a container image compatible with oci runtimes
+__label__LE the application shall encrypt personal data at rest and in transit to meet regulatory requirements
+__label__PE api authentication overhead must not exceed 10ms per request
+__label__PO the application must provide compatibility layers for system calls enabling operation on linux distributions using glibc musl and androids bionic c library
+__label__LE the system shall enforce data residency rules for eu member states and be subject to legal review at least every 24 months
+__label__PE the system must be able to handle a large volume of data and user requests without significant performance degradation
+__label__PE the flight log storage mechanism shall be capable of writing sensor data state estimates and control inputs at a minimum sustained rate of 1000 records per second without impacting the control loop latency
+__label__MA the product shall include automated build and deployment pipelines cicd
+__label__RA monitoring infrastructure must be independently hosted from application
+__label__PE the application shall implement efficient debouncing for expensive operations
+__label__MA the application must provide inline documentation and apilevel docs for all public interfaces and assign ownership to a team or role in the platform team
+__label__SE credentials must never be transmitted in url parameters
+__label__US ensure api documentation is available in multiple formats
+__label__US the patient portal must be accessible on all major devices including desktops laptops tablets and smartphones
+__label__SC api response caching must scale across distributed cache infrastructure
+__label__MA the system shall track and publish dependency versions and security advisories
+__label__LE the application must provide mechanisms to anonymize or pseudonymize personal data upon request
+__label__SE api security must include protection against parameter pollution attacks
+__label__US the system should support columnbased bulk editing in data grids
+__label__RA capacity headroom must be maintained at 60 for failure scenarios
+__label__SC the system should implement data streaming with backpressure handling at scale
+__label__MA the system must automatically back up payroll data every night
+__label__SC the platform shall provision new service instances within 30 seconds
+__label__US notification preferences must be easily configurable by users
+__label__PE the api shall respond within 2 seconds for all api requests
+__label__US the application should support voice commands for accessibility features
+__label__LE the system shall allow data subject requests including access rectification and deletion within 90 days and be subject to legal review at least every 36 months
+__label__US the interface shall use consistent button styling throughout
+__label__SE the system shall meet or exceed applicable industry standards for credit card processing
+__label__LE the system must enforce firearms dealer compliance capturing background check completion acquisition and disposition logging and inventory reconciliation meeting atf inspection requirements
+__label__MA the product shall include automated build and deployment pipelines cicd and assign ownership to a team or role in the development team
+__label__US dropdown selections must support keyboard navigation and typeahead search
+__label__US the application shall announce dynamic content changes to assistive technologies
+__label__MA the codebase shall maintain at least 90 unit test coverage for core modules
+__label__RA the platform should run automated data integrity validation hourly
+__label__SC service mesh infrastructure must handle interservice communication at scale
+__label__LE the product shall retain audit logs for 180 days to support legal discovery
+__label__PO the system shall provide a cli that runs on windows macos and linux
+__label__MA we want adjustable log levels that we can change in production without redeploying
+__label__SE if a user is accessing the system from a nonapproved network then they are immediately redirected to the login page
+__label__US the system shall provide an intuitive and userfriendly interface
+__label__LE the system must comply with ccpa for applicable transactions
+__label__US if the user is not logged in within 30 minutes the system must automatically log them out to prevent unauthorized access
+__label__SE regular security code reviews must be conducted before production deployment
+__label__RA rollback capabilities must be tested as part of deployment procedure
+__label__RA disaster recovery procedures must be tested quarterly
+__label__RA the system shall maintain audit logs even during partial failures
+__label__SC the system must be designed to handle multiple concurrent user logins and sessions
+__label__PE the system must implement efficient stream processing for realtime analytics
+__label__MA the system must be designed to minimize the impact of hardware failures on overall system performance
+__label__PE database queries cannot exceed 200ms under load
+__label__PO the application must preserve data integrity when moved between android and ios and document the migration procedure in developer guide
+__label__RA system components must achieve five nines uptime through active redundancy
+__label__US the system shall provide multiple methods for data entry eg text voice
+__label__PO the software should adapt to different operating system kernel designs automatically
+__label__PO the system shall provide a cli that runs on linux distributions and macos
+__label__PE the api must be able to handle a minimum of 100 concurrent requests without a significant decrease in performance
+__label__PO the software must support operation across platforms with different signal handling mechanisms including posix signals and windows console events
+__label__LE the system must enforce aviation safety regulations documenting pilot certification aircraft maintenance and airworthiness tracking meeting faa operational approval requirements
+__label__PE database queries cannot exceed 200ms under load or otherwise we risk violating industry performance standards
+__label__PO the software shall export and import data in json csv and parquet to allow migration
+__label__PE microservice communication should use binary protocols for efficiency
+__label__SC the platform shall support instant traffic failover during scaling operations
+__label__PE the system must be able to handle a minimum of 10000 unique user registrations per day without significant performance degradation
+__label__SE the system must store user data securely using endtoend encryption
+__label__PE the system shall utilize a distributed database eg cockroachdb or cassandra for appointment slot management ensuring transaction finalization across all regional instances within 500 milliseconds
+__label__SC the system shall be able to store a minimum of 10000 user sessions
+__label__RA unscheduled downtime due to software defects shall not exceed 5 minutes per month
+__label__SE security logs must be centralized and protected from tampering
+__label__RA runbooks must be maintained for all critical operational procedures
+__label__US the interface shall support bidirectional text for mixedlanguage content
+__label__US users must be able to customize the default landing page after login
+__label__RA the platform should implement splitbrain prevention mechanisms
+__label__LE the application must provide a consent mechanism for cookies and tracking choices with auditable records and be subject to legal review at least every 36 months
+__label__MA the software shall maintain architectural decision records documenting significant design choices considered alternatives and rationale in versioncontrolled repositories alongside source code
+__label__MA the system must be designed to be easily installable configurable and maintainable ie maintainable
+__label__PE system startup time should not exceed 60 seconds after deployment
+__label__MA the application must provide inline documentation and apilevel docs for all public interfaces
+__label__LE the software must provide animal welfare compliance tracking documenting institutional animal care committee approvals protocol adherence monitoring and veterinary care records meeting usda requirements
+__label__MA the application shall implement comprehensive mutation testing validating test suite effectiveness by introducing code changes and verifying test failures
+__label__RA the application should implement fallback mechanisms for all external apis
+__label__MA the application should have tracking ids that flow through the entire system for endtoend tracing
+__label__LE the software shall provide railroad safety compliance tracking equipment inspection schedules employee qualification and accident investigation documentation meeting fra regulatory requirements
+__label__SE the system must validate all urls against open redirect vulnerability patterns
+__label__PE the system shall maintain a gps lock recovery time of less than 2 seconds after emerging from a signaldenied environment
+__label__SE if a user has an unactivated 2fa device the app should immediately fail authorization attempts
+__label__LE the application shall encrypt personal data at rest and in transit to meet regulatory requirements
+__label__PO the system shall provide a cli that runs on windows macos and linux
+__label__PO the software shall support seamless transition between different process scheduling models including cooperative multitasking preemptive multitasking and realtime scheduling systems
+__label__SC security controls must maintain effectiveness at increased scale
+__label__SE all interservice communication over the network shall be authenticated using servicemesh mtls mutual tls to ensure every call originates from a verified authorized component
+__label__PE the system should utilize multiplexing to improve resource loading
+__label__SC the system should be able to handle a minimum of 100000 unique urls without impacting performance
+__label__US the application should support customizable keyboard shortcut mappings
+__label__PO the software must be compatible with the latest two versions of major browsers for webbased interfaces
+__label__RA any api failures must result in a cached version of the data being displayed to avoid downtime
+__label__MA the system must support hotfixes without full downtime for critical patches
+__label__MA the system must support hotfixes without full downtime for critical patches and assign ownership to a team or role in the platform team
+__label__SE the application should implement security headers validation at load balancer
+__label__US the system shall support range selection with shiftclick in lists
+__label__US action buttons must show loading state during processing
+__label__US the application shall provide high contrast mode for visual accessibility
+__label__PO the system must handle different network packet size limits automatically
+__label__PE the system shall be able to handle a minimum of 10000 concurrent users without a significant decrease in performance
+__label__SC the platform shall maintain performance with 100x data volume increase
+__label__RA if a user has not logged in for more than 3 days their account must be temporarily locked
+__label__RA the system must be able to store and retrieve data for a minimum of 5 years without any data loss
+__label__MA the application should have automated data retention with scheduled deletions and legal hold exceptions
+__label__PE the application should implement progressive web app features for faster loading
+__label__US input validation must use appropriate html5 input types
+__label__MA the product must allow rollback to the previous stable release within 8 hours
+__label__PE resource hints must guide browser to preconnect to critical origins
+__label__LE the application must provide mechanisms to anonymize or pseudonymize personal data upon request and be subject to legal review at least every 24 months
+__label__PO the software needs to maintain numerical accuracy across different floatingpoint implementations
+__label__PE when the user has 5 open tabs with active weather forecasts the system must automatically slow down its response rate to prevent overwhelming the server
+__label__RA the system shall maintain data consistency across all nodes in the distributed system
+__label__LE the product shall display legal notices and terms of service prominently at first use
+__label__SC queue management must support prioritybased scaling decisions
+__label__SE the system shall be able to ensure the confidentiality integrity and availability of sensitive business data
+__label__MA the application shall log deprecation warnings and provide migration guides and assign ownership to a team or role in the operations team
+__label__SE security baselines must be enforced through infrastructure as code validation
+__label__US the interface should learn from user corrections in autocomplete
+__label__SE the system must be able to store and retrieve trade data in a secure manner
+__label__SC the application shall support multicloud deployment for maximum scalability
+__label__LE the application shall provide judicial authorities with standardized data disclosure interfaces supporting lawful intercept requests while maintaining chain of custody documentation for potential legal proceedings
+__label__SC data ingestion pipelines must be able to scale their capacity on demand
+__label__US the algorithm must display a maximum of 2 seconds delay between posts while maintaining a userfriendly interface
+__label__LE the product must maintain records of processing activities consistent with industry regulations
+__label__RA the game should be able to recover from a sudden loss of power or network connection
+__label__MA the product shall include automated build and deployment pipelines cicd
+__label__SC the api gateway shall be capable of horizontally scaling to handle a 300 increase in typical peak load traffic without a significant degradation in response time defined as an increase of more than 100 milliseconds
+__label__SC the platform shall handle 100000 requests per second at peak load
+__label__PE the system should implement request multiplexing to reduce connection overhead
+__label__SC the system should optimize query performance through materialized views at scale
+__label__LE the product shall retain audit logs for 365 days to support legal discovery
+__label__SC load balancing algorithms must distribute traffic based on server capacity metrics
+__label__SC analytics queries must scale through distributed query processing engines
+__label__PE the system cannot handle more than 100 concurrent api requests without a significant performance drop forcing users to stagger their access
+__label__LE the system shall allow data subject requests including access rectification and deletion within 730 days
+__label__SE administrative interfaces must be accessible only from whitelisted ip addresses
+__label__RA as a payment gateway administrator i need the dashboard to automatically log out after 30 minutes of inactivity so that no unauthorized access occurs
+__label__MA the product shall include automated build and deployment pipelines cicd
+__label__SE the application should implement api request signing with timestamp validation
+__label__RA service level indicators must be monitored continuously with realtime dashboards
+__label__RA the system shall be designed to minimize downtime in case of hardware failures
+__label__MA the system must be able to maintain accurate and uptodate records of all shipments including tracking numbers delivery dates and delivery status
+__label__LE the system must comply with gdpr for applicable transactions
+__label__SE security configuration must be version controlled and audited
+__label__SE the ecommerce system shall store user information securely
+__label__PO the application must preserve data integrity when moved between cloud and edge environments
+__label__PO the product should provide platformspecific adapters for cloud providers and document the migration procedure in developer guide
+__label__MA the application must implement comprehensive sql query logging with parameter value capture enabling reproduction of problematic database interactions during debugging
+__label__PO the application must preserve data integrity when moved between windows macos and linux and document the migration procedure in installation manual
+__label__RA the algorithm must ensure that user data is backed up regularly and can be restored in case of system failure or data loss
+__label__RA the application must isolate testing and staging environments from production traffic
+__label__MA we should automatically check that software licenses are compatible before adding dependencies
+__label__PE concurrent request handling should utilize thread pools efficiently
+__label__PO the application must detect and adapt to different screen densities and locales and document the migration procedure in developer guide
+__label__US the dashboard must refresh every 30 seconds to maintain user engagement
+__label__PO the application should work with accelerometers gyroscopes and other available sensors
+__label__PE the system shall be able to handle a minimum of 100000 concurrent users without compromising system performance
+__label__LE the product shall display legal notices and terms of service prominently at first use
+__label__RA the system shall be protected by an uninterruptible power supply ups for short outages
+__label__RA infrastructure redundancy must follow n2 pattern for critical components
+__label__PE the processing delay for streaming data shall not exceed 100ms
+__label__PE the system must reduce the number of renderblocking resources
+__label__PE resource loading must implement priority hints for optimal browser scheduling
+__label__SC the database layer must be capable of sharding to distribute large data sets
+__label__LE the product shall display legal notices and terms of service prominently at first use and be subject to legal review at least every 12 months
+__label__US the interface should provide quick filters for common searches
+__label__PO the software needs to handle bigendian and littleendian systems automatically when dealing with binary data
+__label__LE the system should support export of user data in a portable format on request
+__label__MA the system must be able to maintain data integrity by logging all user activity to ensure audit trails
+__label__PE api caching headers must be configured appropriately per endpoint type
+__label__SE the application must validate all redirect urls to prevent open redirect vulnerabilities
+__label__PO the application must support installation as a container image compatible with docker and document the migration procedure in admin documentation
+__label__PE the system must optimize react reconciliation through proper key usage
+__label__PO the application must detect and adapt to different screen densities and locales and document the migration procedure in installation manual
+__label__US the system shall provide a userfriendly interface for patients to easily update their profile information
+__label__SE the application must validate all user inputs to prevent injection attacks
+__label__PO the system shall provide a cli that runs on linux distributions and macos and document the migration procedure in admin documentation
+__label__RA the game must be able to maintain a minimum level of performance even under heavy usage
+__label__PE the system must have a maximum response time of 2 seconds to ensure seamless user experience
+__label__SE thirdparty dependencies must be scanned regularly for known vulnerabilities
+__label__SE the system shall require multifactor authentication for any user interface session initiated from an external network
+__label__PE email notifications must be sent within 30 seconds of triggering event
+__label__MA the product must have documented coding standards and contribution guidelines
+__label__RA distributed coordination must handle network partitions gracefully
+__label__RA alert escalation must follow oncall rotation with automatic failover
+__label__PO the application must preserve data integrity when moved between android and ios
+__label__PE api requests for laboratory results must not exceed 300ms latency under load to prevent system freezes
+__label__RA the system shall switch to the secondary flight controller within 50 milliseconds if the primary controller fails to send a heartbeat signal
+__label__PE api calls exceeding 500 concurrent requests per minute must return an error message stating system under load without the need for manual intervention
+__label__RA the system must be designed to recover automatically from a database query timeout exceeding 500ms with minimal impact on system functionality
+__label__RA the application shall implement saga pattern for longrunning distributed transactions
+__label__PE the application shall cache frequently accessed data to reduce response time by 50
+__label__RA service mesh must provide automatic retry and timeout handling
+__label__US the system should provide quick switch between view and edit modes
+__label__RA data backups must be automatically performed and verified daily
+__label__MA the system shall track and publish dependency versions and security advisories and assign ownership to a team or role in the operations team
+__label__LE the system shall enforce data residency rules for specified countries and be subject to legal review at least every 36 months
+__label__PO the software shall export and import data in json and yaml to allow migration
+__label__SE the application must mask or redact sensitive information in logs
+__label__SE the application must implement proper validation of cryptographic signatures
+__label__MA the application shall log deprecation warnings and provide migration guides
+__label__LE the system shall allow data subject requests including access rectification and deletion within 730 days
+__label__RA any external failure of a major weather center will not impact the users ability to obtain current forecasts for the next 24 hours
+__label__MA we want visualization of component dependencies to identify circular references needing refactoring
+__label__US when a user abandons their cart after adding 10 items then the system must display a notice reminding them of the total cost
+__label__RA the trading system must ensure that all data is backed up at least once a day and that backups are stored offsite for disaster recovery purposes
+__label__MA the system must provide comprehensive error handling with contextual logging that captures sufficient diagnostic information for troubleshooting production issues without requiring debugger access
+__label__SC api gateway infrastructure must scale to handle increasing traffic automatically
+__label__SE the application should implement security boundaries between multitenant data
+__label__LE the application shall encrypt personal data at rest and in transit to meet regulatory requirements
+__label__SC the system must be able to scale to meet the needs of large complex supply chains handling multiple modes of transportation and various commodities
+__label__RA the platform shall support instant snapshot recovery for databases
+__label__LE the software must let users control exactly what information we can share with third parties and require their permission before sharing
+__label__RA the total number of errors reported to the user per session must be minimal
+__label__PO the application must support installation as a container image compatible with docker and ocicompliant runtimes
+__label__PO the application must provide abstraction for sensor data acquisition across devices with accelerometers gyroscopes magnetometers and environmental sensors
+__label__PO the system must be able to read settings from xml yaml json files or environment variables equally well
+__label__LE the system shall enforce data residency rules for regions that require data residency
+__label__MA the product must allow rollback to the previous stable release within 24 hours
+__label__SE the system shall be able to ensure the confidentiality integrity and authenticity of all data transmitted between systems
+__label__US sortable columns must show sort direction with clear indicators
+__label__PO the software must be compatible with modern chromiumbased browsers for webbased interfaces
+__label__US the application should offer a guided whats new section after major updates
+__label__RA the system must maintain a high level of reliability with a minimum uptime of 999 to ensure continuous operation
+__label__LE the application shall encrypt personal data at rest and in transit to meet regulatory requirements and be subject to legal review at least every 24 months
+__label__PO the software must support automatic adaptation to different memory page sizes ranging from 4kb to 2mb huge pages across processor architectures
+__label__SC the application must utilize resource pooling for connections and threads
+__label__SE the algorithm must be able to detect and prevent denialofservice attacks by identifying the ip address of the attacker
+__label__RA database resilience must be validated through monthly failover drills
+__label__SE patient data must remain encrypted regardless of external security threats
+__label__RA resource limits must prevent individual requests from exhausting system resources
+__label__SE the system shall ensure the confidentiality and integrity of employee data
+__label__SE security monitoring must aggregate events from all system components centrally
+__label__PE audio streaming should buffer no more than 2 seconds of content
+__label__SC the application must support session replication across all clustered nodes
+__label__RA the application shall implement distributed sagas with compensation handlers
+__label__SC the application must support efficient resource allocation for different priority tasks
+__label__SE the system must automatically apply the latest security patches within 72 hours of release and notify users of any potential security vulnerabilities
+__label__SC the api shall be designed to handle large volumes of user data and expand to accommodate future data needs
+__label__SE reauthentication must be required for administrative operations within 10 minutes
+__label__PE all patient records must be searchable within a 500ms time frame
+__label__RA transaction logs must be preserved for recovery purposes
+__label__SE the platform shall implement automated security policy enforcement
+__label__US the system shall be easy to use and navigate with clear and concise error messages
+__label__US the interface shall maintain visual consistency across desktop and mobile platforms
+__label__RA the application shall implement timeout hierarchies for dependent service calls
+__label__PE the system shall implement lazy hydration for react components
+__label__RA system logs must be replicated to three independent storage locations
+__label__MA the path planning module shall be designed with clear documented interfaces and logging capabilities to allow for easy integration and compatibility testing with future thirdparty amr models
+__label__PE api payload optimization should use sparse fieldsets to reduce data transfer
+__label__MA the application shall log deprecation warnings and provide migration guides
+__label__PE the application must implement resource hints for critical third party domains
+__label__PE database queries cannot exceed 200ms under load
+__label__PO the system shall be distributable as a single archive ziptar for offline installation and document the migration procedure in developer guide
+__label__US the dashboard should automatically refresh every minute regardless of external data availability
+__label__PO the application must provide abstraction for accessibility features that accommodate differences between screen readers voice control systems and alternative input devices
+__label__SC the system should implement connection management that scales efficiently
+__label__MA we need validation rules that prevent invalid data from getting into the system
+__label__RA the platform should deploy using progressive delivery with automated validation
+__label__MA the software shall be maintainable and have a minimum of 2 documentation standards in place
+__label__RA the system must implement request deduplication to ensure operation idempotency
+__label__SE the system shall encrypt all communication with external apis
+__label__PO the system shall provide a cli that runs on linux distributions and macos
+__label__MA the system must provide modular design with clear separation of concerns
+__label__RA the system shall utilize audit logging for all changes to rate plans and cancellation policies retaining historical versions for a minimum of 5 years to support dispute resolution and regulatory checks
+__label__PO the system shall be distributable as a single archive ziptar for offline installation
+__label__PE the average page weight in kilobytes must be below 2 mb
+__label__US form validation must highlight errors with specific fieldlevel messages
+__label__PO the application must support installation as a container image compatible with oci runtimes
+__label__SC the system should implement connection multiplexing for efficient resource usage
+__label__RA the system must be able to maintain its functionality even when hardware or software components fail
+__label__US the system shall be accessible on all commonly used devices and browsers following accessibility standards
+__label__PE dashboard data refresh should occur every 10 seconds without full page reload
+__label__SE the system must be able to maintain the confidentiality integrity and authenticity of player data
+__label__MA we want automatic detection of database performance problems during development
+__label__PE file processing operations must support streaming to handle large files efficiently
+__label__MA the product shall include automated build and deployment pipelines cicd
+__label__SC the system should implement connection pooling strategies for scaling databases
+__label__RA the application should implement backpressure to handle load gracefully
+__label__US primary action buttons must maintain consistent position across pages
+__label__PE the system shall maintain a minimum uptime of 999 and reduce average response time to under 50ms
+__label__US tutorial overlays must be dismissible with option to replay later
+__label__SC the system must be able to handle a minimum of 1000 users simultaneously
+__label__PE legacy system integration must not cause any performance degradation beyond 2ms under load
+__label__PO the application must preserve data integrity when moved between cloud and edge environments
+__label__SC the system should implement event sourcing architecture for scalable state management
+__label__MA the product must allow rollback to the previous stable release within 8 hours
+__label__RA application state must be reconciled automatically after network partitions
+__label__PE server response headers should be optimized to minimize overhead below 2kb
+__label__PO the application shall provide automated testing frameworks that validate functional equivalence across all supported operating systems browsers and hardware platforms
+__label__SE the system shall employ rate limiting to mitigate denialofservice dos attacks
+__label__PE the system must maintain response times under 3 seconds during database maintenance operations
+__label__SC the platform should implement efficient data replication for scalability
+__label__MA the system needs websocket connection management with automatic reconnection
+__label__RA the system should provide an easily accessible status page for users
+__label__SE if the order total exceeds 500 then the system must require a 3d secure verification before completing the transaction
+__label__MA the product must have documented coding standards and contribution guidelines
+__label__SE the system shall implement protection against ldap injection attacks
+__label__US when the shipping address is invalid then a warning message is displayed on the shipping options page
+__label__PE server memory usage must remain stable under sustained high load conditions
+__label__SE the system should implement automated vulnerability scanning on dependencies daily
+__label__LE the software must provide food safety traceability implementing lot tracking supplier verification and recall execution meeting fda food safety modernization act requirements
+__label__SC the system should replicate data with tunable consistency levels per operation
+__label__PE the application shall implement efficient data structures for frequent operations
+__label__SE personal identifiable information should be masked in application logs
+__label__SC monitoring systems must scale to track metrics from thousands of instances
+__label__SC the system should implement connection pooling with dynamic pool sizing
+__label__MA the codebase shall use static analysis tools to detect common errors on each commit and assign ownership to a team or role in the development team
+__label__RA service dependencies must implement timeout values of 30 seconds maximum
+__label__SC the system shall utilize nonblocking io operations for high concurrency
+__label__LE the system must comply with local data protection laws for applicable transactions
+__label__US required fields must be marked clearly before form submission
+__label__MA the product shall include automated build and deployment pipelines cicd
+__label__US modals must be dismissible using escape key consistently
+__label__RA the application should communicate service status through dedicated status endpoints
+__label__MA we want to use fixedpoint arithmetic for financial calculations to prevent rounding errors
+__label__PE database queries cannot exceed 200ms under load
+__label__US the system shall provide a clear path to contact support or view documentation
+__label__US the interface shall support standard screen reader navigation patterns
+__label__US the interface shall use material design icons for consistency
+__label__MA the system should be able to handle changes in technology and software updates
+__label__SE all api queries must be made using only
+__label__MA the system shall implement a pluginbased architecture for tax logic to allow rule updates without recompiling the core calculation engine
+__label__PO the application must detect and adapt to different screen densities and locales and document the migration procedure in admin documentation
+__label__RA the application shall implement compensating transactions for rollback scenarios
+__label__PO the software must be compatible with the latest two versions of major browsers for webbased interfaces
+__label__MA the system must be able to maintain a consistent user experience across different devices and browsers
+__label__SE the system should implement behavioral analytics for insider threat detection
+__label__PE data must be received in realtime to provide accurate supply chain insights
+__label__SE sensitive data must be purged according to data retention policies
+__label__PO the application must detect and adapt to different screen densities and locales and document the migration procedure in installation manual
+__label__PO the application must support installation as a container image compatible with docker
+__label__PO the product should provide platformspecific adapters for thirdparty storage systems
+__label__PE if a user is in a location with weak network coverage the api must automatically switch to cached data
+__label__MA the application shall log deprecation warnings and provide migration guides
+__label__SE encryption algorithms must use minimum 256bit key lengths for symmetric encryption
+__label__SC service discovery must work efficiently in largescale deployments
+__label__PE cpu utilization shall not surpass 65 during concurrent user testing
+__label__RA the system should be able to recover from a failure of any single device or module without affecting the overall system functionality
+__label__US forms must include inline validation with immediate feedback
+__label__SE security tokens must include ip address binding for session validation
+__label__SE no secure payment methods should be displayed to guests without password verification
+__label__US dashboard autorefreshes every minute to keep users uptodate
+__label__PE characters cannot select abilities more than 3 seconds after entering a dungeon
+__label__US users should be able to switch between detailed and simplified views of data
+__label__MA the codebase shall maintain at least 90 unit test coverage for core modules
+__label__PE when the network connection is slow the algorithm must prioritize content download based on user engagement
+__label__RA the application must continue to provide readonly functionality during minor outages
+__label__SE the systems dataatrest encryption mechanism must utilize aes256 with key management administered by a certified hardware security module hsm adhering to pci dss requirement 35
+__label__SE the application must utilize transport layer security tls 12 or higher for all data in transit
+__label__SC the platform shall support database cluster expansion without downtime
+__label__RA the algorithm must be able to store and retrieve at least 100000 posts and associated metadata
+__label__RA the failure rate of automated jobs must be less than 1
+__label__SE hospitalwide alerts must be sent immediately in case of low stock alerts
+__label__SC the application should implement circuit breakers to prevent cascade failures during scaling
+__label__SE the system must provide an audit trail of all user activity for a minimum of 30 days
+__label__MA the codebase shall maintain at least 85 unit test coverage for core modules
+__label__US the system shall be userfriendly and accessible for users with disabilities in accordance with the americans with disabilities act ada regulations
+__label__PO the software shall export and import data in csv json and xml to allow migration
+__label__PE api response streaming should begin immediately without buffering complete response
+__label__SE the system shall implement encryption for sensitive data in transit and at rest
+__label__PE the system must optimize font loading to prevent layout shifts
+__label__RA the data migration component shall ensure data integrity with a less than 0001 error rate during the transfer of patient records from the legacy hl7 v2 system to the new fhir standard database
+__label__MA the product shall include automated build and deployment pipelines cicd
+__label__PO the application must provide abstraction for document rendering that accommodates pdf docx odt and proprietary document format engines
+__label__MA the system must support hotfixes without full downtime for critical patches and assign ownership to a team or role in the development team
+__label__LE the application must explain how automated decisions are made when they affect users rights or access to services
+__label__SC the system shall be scalable and able to handle a minimum of 10000 new users per month without significant performance degradation
+__label__PO the application should handle file paths correctly whether were on windows using backslashes or maclinux using forward slashes
+__label__US the interface should implement sticky headers for long scrollable content
+__label__US the system shall display clear visual feedback for all user actions
+__label__PO the system shall run on android and ios without code changes
+__label__US the interface shall implement smart pagination with jumptopage capability
+__label__LE the application must provide mechanisms to anonymize or pseudonymize personal data upon request
+__label__MA the system shall maintain all transaction records for a minimum of 7 years
+__label__US the primary navigation menu must be visible and consistent across all screens
+__label__SE the system shall salt and hash all stored social security numbers ssn using bcrypt with a work factor of at least 12
+__label__RA the system shall maintain audit logs of all user actions related to accessing or modifying phi and these logs shall be retained for a minimum of 7 years
+__label__RA any autonomous drone flights exceeding 5000 feet above ground level require immediate authorization from a human operator
+__label__RA the system must implement quorumbased writes for distributed consistency
+__label__PO the application shall support crosscompilation for arm x86 x64 and riscv processor architectures from a single codebase without architecturespecific code branches
+__label__SC the platform shall support deployment across multiple availability zones
+__label__SC asynchronous processing must scale independently from synchronous operations
+__label__US the system shall confirm destructive actions with typed confirmation for critical data
+__label__MA the codebase shall maintain at least 70 unit test coverage for core modules
+__label__SC the system shall be designed to maintain a scalability of 50 every 6 months to accommodate growing user bases
+__label__PE the system shall be able to process transactions within a maximum of 2 seconds measured from the moment a user clicks the submit button
+__label__US mobile interfaces must have touchfriendly button sizes
+__label__US the portal shall be accessible and fully functional via standard web browsers chrome firefox edge safari and meet wcag 21 level aa compliance standards
+__label__PE the application must optimize css selectors to improve rendering performance
+__label__SC the api shall be able to scale horizontally to handle large volumes of data and requests
+__label__LE the application must implement pharmacy benefit management compliance enforcing formulary disclosure generic substitution rules and prior authorization transparency meeting state pbm regulation requirements
+__label__SE database backups must be encrypted before storage
+__label__LE we need to comply with wiretap capabilities customer information protection and 911 location requirements for telecom
+__label__SE the application shall implement security controls for file download operations
+__label__US the system must allow users to set their own encryption preferences including key strength and protocol versions
+__label__PO the system shall be distributable as a single archive ziptar for offline installation and document the migration procedure in developer guide
+__label__RA the system shall be able to ensure data backup and recovery procedures are in place
+__label__PE the system must be able to handle large volumes of data and perform complex calculations without significant delays
+__label__MA the system must provide modular design with clear separation of concerns
+__label__SC the game must be able to provide a seamless multiplayer experience allowing players to join and leave games quickly and easily
+__label__PE graphql queries must be batched to reduce network overhead significantly
+__label__SC load testing must validate stability at 50x current peak capacity
+__label__SE security awareness training must be completed by all developers annually
+__label__LE the application must provide a consent mechanism for personal data with auditable records
+__label__MA the product must have documented coding standards and contribution guidelines
+__label__MA the application shall log deprecation warnings and provide migration guides
+__label__RA the system shall automatically recover from a node failure within 3 seconds to prevent transaction data loss
+__label__SE the application shall validate file extensions and mime types on uploads
+__label__RA the monitoring system must alert operations staff of degraded performance immediately
+__label__SC the system must be able to handle a minimum of 10000 concurrent user sessions without significant degradation
+__label__PO the system must handle socket connection limits appropriately on each platform
+__label__PE the application must optimize loop structures to minimize iteration overhead
+__label__PO the application must preserve data integrity when moved between x86 and arm architectures
+__label__PO the application must work with different encryption requirements across various countries and security policies
+__label__US the api shall be accessible from all devices with a minimum screen resolution of 1080p
+__label__RA the system shall prevent a single dependency from causing a full system crash
+__label__US bulk operations must show estimated completion time for long tasks
+__label__SE if a user forgets their login credentials then they must be prompted to enter a recovery code immediately
+__label__SC background synchronization must handle increasing data volumes efficiently
+__label__RA if a user is unable to log in to the system they must receive a notification that their account has been locked out for 10 minutes regardless of system load
+__label__SC the system shall support horizontal scaling to accommodate increased traffic
+__label__SE if a device is not updated within 30 days the system must send a notification to the homeowner
+__label__PE no more than 50 api calls are allowed for free tier users
+__label__MA the product must have documented coding standards and contribution guidelines
+__label__SC integration with external vendors is required to track shipment dates and quantities
+__label__PO the product should provide platformspecific adapters for cloud providers
+__label__PO the software should support webassembly javascript strict mode and containerized code execution safely
+__label__SC the system should support dynamic configuration updates without a restart
+__label__SE the system should implement content security policy with strict directives
+__label__PE the system shall process and correlate distributed event streams with a minimum throughput of 50000 events per second per regional cluster
+__label__SC load distribution must account for server health metrics in routing decisions
+__label__SE the system must ensure the confidentiality integrity and authenticity of all data stored
+__label__US automatic login for registered users should be supported to reduce the overall complexity of user interaction
+__label__SC the platform shall implement data sharding with automatic rebalancing capability
+__label__RA the platform shall maintain redundant network connectivity through multiple providers
+__label__LE the application must provide mechanisms to anonymize or pseudonymize personal data upon request
+__label__RA the application must use idempotent operations where possible
+__label__MA the application must provide inline documentation and apilevel docs for all public interfaces and assign ownership to a team or role in the platform team
+__label__US settings pages must be organized into logical categories
+__label__PO the system shall be distributable as a single archive ziptar for offline installation
+__label__MA the system must support hotfixes without full downtime for critical patches
+__label__SC the system shall be able to handle a minimum of 10000 users simultaneously
+__label__LE the product shall display legal notices and terms of service prominently at first use and be subject to legal review at least every 24 months
+__label__US as a customer i want to save my payment details for future purchases so that i dont have to reenter them every time
+__label__MA the application must provide inline documentation and apilevel docs for all public interfaces
+__label__US users must be able to utilize screen readers and other assistive technologies
+__label__MA the api must provide clear and concise error messages to users in case of an error in multiple languages
+__label__LE the product shall retain audit logs for 30 days to support legal discovery
+__label__SC the system shall be able to scale its logging infrastructure to handle high volume
+__label__PE network latency between services should be minimized to 50ms
+__label__MA the codebase shall use static analysis tools to detect common errors on each commit
+__label__PO the software must be able to read old data from previous versions even after we upgrade to newer releases
+__label__SE security configuration must prevent information disclosure through errors
+__label__LE the product shall retain audit logs for 365 days to support legal discovery
+__label__SC database connection strategies must support thousands of concurrent connections
+__label__LE the system should track pesticide approvals label accuracy and environmental impacts
+__label__RA if a critical drone system failure occurs an automatic failover to backup systems must be initiated
+__label__RA the platform should execute automated remediation workflows on detection
+__label__PE if the user is accessing the system from a location with low bandwidth the system should adjust graphics rendering to reduce latency
+__label__SC infrastructure as code iac must be used to replicate the entire environment quickly
+__label__PO the product should provide platformspecific adapters for mobile desktop and embedded modules and document the migration procedure in admin documentation
+__label__US the application shall provide quick access to recently viewed items
+__label__SC the system must be able to handle a large number of users and devices simultaneously without compromising system performance
+__label__LE the product shall retain audit logs for 90 days to support legal discovery
+__label__SE security policies must enforce principle of least privilege across all systems
+__label__SC search infrastructure must scale to support billions of indexed documents
+__label__MA the application shall implement hexagonal architecture patterns isolating core business logic from external dependencies through adapter interfaces that simplify technology stack migrations
+__label__SC the system shall be designed with a scalable architecture to accommodate future growth
+__label__MA the application must implement comprehensive security scanning detecting hardcoded secrets sql injection vulnerabilities and insecure cryptographic usage during development
+__label__PE network requests must utilize http pipelining where supported
+__label__SE the application should implement content security policies to mitigate xss attacks
+__label__PE the total loading time for the main application view must be under 3 seconds
+__label__RA backup restoration must be tested monthly with success criteria validation
+__label__MA the product must have documented coding standards and contribution guidelines
+__label__PE database queries cannot exceed 200ms under load to prevent slow checkout times
+__label__SE the system must be designed to meet the strict regulatory compliance requirements of gdpr and hipaa
+__label__LE the system shall allow data subject requests including access rectification and deletion within 90 days
+__label__LE the product must maintain records of processing activities consistent with applicable privacy laws
+__label__MA the codebase shall maintain at least 75 unit test coverage for core modules
+__label__MA the system must support hotfixes without full downtime for critical patches
+__label__PE the application should optimize javascript execution with aheadoftime compilation
+__label__US the application shall position calltoaction buttons in expected locations
+__label__PE an error message should be displayed if the server takes more than 300ms to respond to a request
+__label__SE the system should implement automated security patching with rollback capability
+__label__PE the api for attendance record submission shall process 99 of incoming student checkins within 200 milliseconds to prevent class registration delays during morning peak hours
+__label__PO the system shall run on cloud and edge environments without code changes
+__label__MA the system shall track and publish dependency versions and security advisories and assign ownership to a team or role in the platform team
+__label__MA the application shall log deprecation warnings and provide migration guides
+__label__PE api response caching should reduce backend load by 60 for frequent queries
+__label__SC the application must be designed to gracefully handle partial service availability
+__label__RA the system shall provide regular backups of all payroll data to prevent data loss in case of system failure or hardware failure
+__label__RA the platform shall monitor and optimize recovery time objectives continuously
+__label__PE the system shall be able to process a minimum of 1000 transactions per second
+__label__SE the system shall meet or exceed all relevant regulatory requirements
+__label__PE resource loading must adapt to network speed automatically using adaptive loading
+__label__LE the product shall retain audit logs for 30 days to support legal discovery
+__label__RA error budgets must be tracked weekly with stakeholder reporting
+__label__RA transaction logs must be archived to multiple geographic locations
+__label__LE the product shall display legal notices and terms of service prominently at first use
+__label__PE the application shall implement efficient event delegation for dom interactions
+__label__PE the user interface shall complete the ride booking confirmation sequence after pressing book now within 15 seconds under normal network conditions
+__label__SE the system shall be designed with security in mind utilizing encryption and secure protocols
+__label__MA the system must provide modular design with clear separation of concerns
+__label__LE the product shall retain audit logs for 730 days to support legal discovery
+__label__LE the application must provide mechanisms to anonymize or pseudonymize personal data upon request and be subject to legal review at least every 36 months
+__label__US the system shall support multilanguage autocomplete with transliteration
+__label__MA the product must have documented coding standards and contribution guidelines
+__label__PO the application should play audio and video files using whatever codecs are available on the device
+__label__US pagination controls must be clearly visible and functional
+__label__PE the system shall implement efficient debouncing with leading edge execution
+__label__SE the system shall encrypt sensitive data in transit using tls 13 minimum
+__label__US client side validation must occur on blur with immediate feedback
+__label__US users should be able to quickly reset the ui to its default state
+__label__SC nosql databases must be used where appropriate for better horizontal scaling
+__label__SC the application shall support graduated feature access to manage scaling
+__label__SC the system shall be able to handle a minimum of 1000 concurrent users
+__label__MA we need pagination that works correctly even when data changes while users are browsing
+__label__SE ensure a security patch level of at least the latest 30day patch
+__label__PE the application shall optimize component mounting with reactlazy functionality
+__label__PE the total size of thirdparty libraries should be minimized
+__label__SC the platform shall support seamless addition of new service instances
+__label__RA the system shall implement retry logic with idempotency tokens for safety
+__label__PE database query execution plans must be analyzed and optimized monthly
+__label__SE the system must validate all cryptographic signature algorithms against approved list
+__label__SC the system shall be able to handle a minimum of 100000 concurrent users without error
+__label__US advanced features must be discoverable through progressive disclosure
+__label__MA the system must provide modular design with clear separation of concerns
+__label__US settings panels must include reset to default functionality
+__label__SC background processing must scale to handle 100 million jobs daily
+__label__SE the application must validate digital signatures on external data sources
+__label__PE the algorithm should be able to handle a large volume of concurrent user requests without significant delay
+__label__PE database batch operations should process 50000 records per transaction
+__label__PE the algorithm shall not prioritize any post with less than 10 hashtags to maintain maximum visibility
+__label__MA the system must provide modular design with clear separation of concerns
+__label__SC the system should implement schema registry for managing data format evolution
+__label__US the system must be designed with a clear and intuitive user interface that is accessible to users with disabilities
+__label__LE the system must support export of user data in a portable format on request
+__label__LE we need to track hazardous materials usage and waste disposal for environmental compliance reporting
+__label__SE the system should never require manual login after a valid user session has been established
+__label__MA the system must provide modular design with clear separation of concerns
+__label__PO the application must support installation as a container image compatible with oci runtimes and document the migration procedure in admin documentation
+__label__LE the application must provide mechanisms to anonymize or pseudonymize personal data upon request
+__label__SC the system should implement request prioritization during scaling events
+__label__SC the platform shall support ab testing infrastructure that scales
+__label__RA backup strategy must support pointintime recovery with 1minute granularity
+__label__PE the application shall optimize rendering through virtual dom diffing strategies
+__label__SC the platform shall handle sustained traffic at 10x peak historical load
+__label__SE source code repositories must be secured with branch protection rules
+__label__US the system shall require typed confirmation including record name for deletion
+__label__US the interface shall implement optimistic updates with rollback on error
+__label__MA the system shall track and publish dependency versions and security advisories
+__label__PO the application needs to work with jaeger zipkin aws xray and opentelemetry for tracing
+__label__LE the system should validate trading orders manage risk and prevent erroneous trades
+__label__PO the application must provide portability across different javascript runtime environments including browser engines nodejs deno and embedded javascript interpreters
+__label__SE multifactor authentication must support multiple backup methods for users
+__label__US the system shall be designed with a clear and intuitive user interface to reduce user frustration
+__label__SC the application shall support geographic load distribution across data centers
+__label__MA the application must provide inline documentation and apilevel docs for all public interfaces
+__label__PO the system shall provide a cli that runs on windows macos and linux
+__label__LE the application must provide mechanisms to anonymize or pseudonymize personal data upon request
+__label__LE the system must block access to encryption technology from countries under trade sanctions
+__label__LE the system must enforce blood bank operations compliance documenting donor eligibility screening product testing and transfusion reaction investigation meeting fda biologics requirements
+__label__SE the game must be able to automatically patch security vulnerabilities within 24 hours of their discovery
+__label__US when accessing the dashboard from a mobile device the system must not display any elements requiring more than a twofingered touch
+__label__SE the system must ensure the security of sensitive data by implementing endtoend encryption
+__label__PO the system shall run on cloud and edge environments without code changes
+__label__SC the system must be able to handle a minimum of 10000 concurrent users to ensure scalability
+__label__SC resource scheduling must optimize utilization across scaled infrastructure
+__label__US table sorting must support multicolumn sorting with priority order
+__label__RA the platform should support automated incident response workflow execution
+__label__MA the system needs automated tests that cover at least 85 of the code to catch bugs when we make changes
+__label__LE the application must provide mechanisms to anonymize or pseudonymize personal data upon request and be subject to legal review at least every 24 months
+__label__PO the system must work with different rate limiting approaches interchangeably
+__label__LE the software shall provide pharmaceutical adverse event reporting capabilities that detect safety signals and generate regulatory submissions to fda medwatch within mandatory timeframes
+__label__US the application should remember users last used filters and sort preferences
+__label__SC the system shall be scalable to accommodate a minimum of 10000 users
+__label__PE file download speeds must utilize at least 80 of available bandwidth
+__label__LE the software must protect student records and require parental consent for sharing certain information
+__label__US frequently used actions must be prominently displayed
+__label__SC the application must support cloud native autoscaling based on demand metrics
+__label__SC the system should implement broadcast optimization for cache invalidation
+__label__LE the product must maintain records of processing activities consistent with applicable privacy laws
+__label__SE the application should implement secure cookie attributes for all session cookies
+__label__PO the system must enable migration between different dependency injection frameworks including spring guice dagger and manual dependency management
+__label__PO the system needs to run on tomcat jetty or other java application servers without special dependencies
+__label__SE sensitive configuration data eg api keys must be stored in a secure vault
+__label__PO the application needs to work with stripe paypal square and regional payment processors
+__label__MA the product shall include automated build and deployment pipelines cicd
+__label__PO the system shall be distributable as a single archive ziptar for offline installation
+__label__SC the system must be able to handle sudden spikes in trading activity without significant performance degradation
+__label__US the system shall provide a search function that is forgiving of spelling mistakes
+__label__LE the system shall enforce data residency rules for eu member states and be subject to legal review at least every 12 months
+__label__US all updates to the game must be available in the store for 30 days before they are removed to allow users to review changes before deciding whether to update
+__label__SC the system should implement efficient data archiving for historical records
+__label__SC the system shall be able to scale horizontally to handle increased traffic without a decrease in performance
+__label__MA the system must provide modular design with clear separation of concerns
+__label__PE file compression operations should process 100mb files within 15 seconds
+__label__LE the product must maintain records of processing activities consistent with applicable privacy laws and be subject to legal review at least every 36 months
+__label__SE all sensitive customer pii within the complaint details eg phone numbers addresses shall be masked or redacted by default for junior agents requiring a secondlevel manager approval to view
+__label__MA the system shall provide automated service level objective tracking measuring actual performance against defined targets with breach notifications
+__label__PE asset loading priority must favor critical path resources
+__label__SC the system shall handle growing api call volumes through rate limiting tiers
+__label__RA i need the system to automatically back up all employee data to a secure storage location every friday at 2 am
+__label__SE the system must prevent enumeration attacks on user accounts
+__label__PO the system must adapt between fast and slow data reading methods based on what works best for each platform
+__label__PO the system shall run on android and ios without code changes and document the migration procedure in admin documentation
+__label__SE the application shall implement protection against subdomain takeover vulnerabilities
+__label__PO the system shall be distributable as a single archive ziptar for offline installation
+__label__LE the system shall allow data subject requests including access rectification and deletion within 90 days
+__label__SE the system must be able to process payments and handle financial transactions securely using secure payment gateways
+__label__RA the platform shall maintain diverse network paths through multiple carriers
+__label__RA the system shall be capable of operating continuously for 2000 flight hours before requiring scheduled firmware maintenance
+__label__SC the system should optimize resource placement based on workload characteristics
+__label__PO the system shall be distributable as a single archive ziptar for offline installation
+__label__PO the product should provide platformspecific adapters for cloud providers
+__label__RA the system shall meet the requirements for data integrity with features such as data validation and error checking
+__label__SE if the system fails to verify a trading users identity for more than 2 seconds the user must be allowed to proceed with a temporary access token
+__label__US the game must be easy to use and navigate with clear instructions and minimal learning curve
+__label__PO the application must preserve data integrity when moved between cloud and edge environments
+__label__SE the system shall isolate different tenants data in multitenant environments
+__label__MA the codebase shall use static analysis tools to detect common errors on each commit
+__label__SC the system shall be able to handle a large volume of concurrent users
+__label__MA the system shall track and publish dependency versions and security advisories and assign ownership to a team or role in the platform team
+__label__US users must be able to easily clear filter and search settings
+__label__MA the application must provide inline documentation and apilevel docs for all public interfaces
+__label__MA the application shall log deprecation warnings and provide migration guides
+__label__RA the platform shall operate normally with loss of two availability zones
+__label__RA if three consecutive shipments from the same vendor experience delays exceeding 48 hours the system must immediately suspend these shipments
+__label__MA the system must support hotfixes without full downtime for critical patches
+__label__PO the software must support automatic adaptation to different sandbox execution environments for untrusted code including webassembly javascript strict mode and containerized execution
+__label__SC configuration distribution must scale to 100000 nodes within 60 seconds
+__label__PO the system must enable operation across platforms with different maximum thread count limitations automatically managing thread pool sizes
+__label__MA the system must support hotfixes without full downtime for critical patches and assign ownership to a team or role in the operations team
+__label__SC the system shall be able to accommodate a minimum of 50000 new users within a 30day period without significant performance degradation
+__label__RA when the api fails the user must see a cached version of the failed payment page so that the checkout process doesnt grind to a halt
+__label__RA the platform shall implement quorumbased decision making
+__label__SE api security must include protection against parameter tampering
+__label__PO the system shall run on windows macos and linux without code changes
+__label__US the system shall ensure that all user interactions are accessible to users with disabilities
+__label__SC i need the system to automatically update its threat intelligence database every hour so that i can stay informed about the latest threats
+__label__LE the system shall allow data subject requests including access rectification and deletion within 90 days and be subject to legal review at least every 24 months
+__label__MA we should organize code around business concepts rather than technical layers so it matches how we think about problems
+__label__PE service worker caching strategies must prioritize frequently accessed resources
+__label__PO the software must be compatible with the latest two versions of major browsers for webbased interfaces and document the migration procedure in admin documentation
+__label__PO the software must support automatic adaptation to different concurrency primitives including mutexes semaphores monitors and lockfree data structures
+__label__LE the software shall provide automated employment law compliance monitoring that tracks working hours overtime calculations and break period enforcement across diverse labor regulation jurisdictions
+__label__PE resource loading must prioritize abovethefold content exclusively
